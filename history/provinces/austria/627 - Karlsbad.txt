@@ -1,0 +1,5 @@
+
+
+add_core = BOH
+trade_goods = iron
+life_rating = 38

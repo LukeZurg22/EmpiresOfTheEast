@@ -1,0 +1,6 @@
+
+
+add_core = ALB
+add_core = GRE
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,5 @@
+
+
+add_core = VIN
+trade_goods = iron
+life_rating = 40

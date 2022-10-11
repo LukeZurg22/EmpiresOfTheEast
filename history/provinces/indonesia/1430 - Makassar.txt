@@ -1,0 +1,6 @@
+
+
+add_core = MKS
+add_core = NUS
+trade_goods = timber
+life_rating = 40

@@ -1,0 +1,6 @@
+
+
+add_core = SCA
+trade_goods = coal
+life_rating = 40
+naval_base = 2

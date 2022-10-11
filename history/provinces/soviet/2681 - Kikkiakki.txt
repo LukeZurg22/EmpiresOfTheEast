@@ -1,0 +1,6 @@
+
+
+add_core = TNG
+trade_goods = tea
+terrain = plains
+life_rating = 40

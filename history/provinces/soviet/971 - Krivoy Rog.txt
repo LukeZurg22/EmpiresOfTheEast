@@ -1,0 +1,7 @@
+
+
+add_core = CRI
+add_core = RUT
+add_core = TAR
+trade_goods = iron
+life_rating = 35

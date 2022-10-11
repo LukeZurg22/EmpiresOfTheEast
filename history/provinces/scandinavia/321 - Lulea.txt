@@ -1,0 +1,6 @@
+
+
+add_core = SCA
+trade_goods = timber
+terrain = boreal
+life_rating = 35

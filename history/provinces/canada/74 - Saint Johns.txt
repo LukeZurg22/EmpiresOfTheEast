@@ -1,0 +1,7 @@
+
+
+add_core = VIN
+naval_base = 1
+trade_goods = fish
+terrain = forest
+life_rating = 40
