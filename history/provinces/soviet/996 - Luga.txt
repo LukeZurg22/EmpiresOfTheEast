@@ -1,10 +1,8 @@
-
-
-add_core = RUS
-add_core = NOV
-add_core = PSV
+owner = ZUR
+controller = ZUR
 trade_goods = grain
-life_rating = 35
-1836.1.2 = {
-  remove_core = NOV
-}
+life_rating = 35	
+add_core = RUS
+add_core = ZUR
+add_core = PSV
+fort = 0	

@@ -1,9 +1,11 @@
-owner = HES
-controller = HES
+owner = THU
+controller = THU
+trade_goods = fruit
+life_rating = 38	
 add_core = HES
 add_core = GER
-trade_goods = fruit
-life_rating = 38
+add_core = THU
+fort = 0	
 state_building = {
 	level = 4
 	building = fabric_factory

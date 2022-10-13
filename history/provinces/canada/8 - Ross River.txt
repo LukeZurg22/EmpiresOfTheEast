@@ -1,5 +1,6 @@
-
-
-add_core = VEN
+owner = TIR
+controller = TIR
 trade_goods = iron
-life_rating = 35
+life_rating = 35	
+add_core = VEN
+fort = 0	

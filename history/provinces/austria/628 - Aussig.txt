@@ -1,5 +1,6 @@
-
-
-add_core = BOH
+owner = BOH
+controller = BOH
 trade_goods = coal
-life_rating = 38
+life_rating = 38	
+add_core = BOH
+fort = 0	

@@ -1,11 +1,7 @@
-owner = BOH
-controller = BOH
+owner = SLV
+controller = SLV
+trade_goods = iron
+life_rating = 38	
 add_core = BOH
 add_core = SIL
-trade_goods = iron
-life_rating = 38
-1836.1.2 = {
-	owner = SIL
-	controller = SIL
-	remove_core = BOH
-}
+fort = 0	

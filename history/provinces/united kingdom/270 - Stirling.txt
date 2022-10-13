@@ -1,16 +1,11 @@
-
-
-add_core = SCA
-add_core = SCO
+owner = SCO
+controller = SCO
 trade_goods = coal
-life_rating = 35
+life_rating = 35	
+add_core = SCO
+fort = 0	
 state_building = {
 	level = 2
 	building = lumber_mill
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = SCO
-  controller = SCO
-  remove_core = SCA
 }

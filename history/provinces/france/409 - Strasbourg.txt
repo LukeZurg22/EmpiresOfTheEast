@@ -1,17 +1,12 @@
-
-
-add_core = BRG
+owner = LRR
+controller = LRR
+trade_goods = grain
+life_rating = 40	
 add_core = LRR
 add_core = RHI
-trade_goods = grain
-life_rating = 40
+fort = 0	
 state_building = {
 	level = 2
 	building = steel_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = LRR
-  controller = LRR
-  remove_core = BRG
 }

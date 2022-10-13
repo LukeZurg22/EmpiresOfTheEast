@@ -1,11 +1,7 @@
-
-
-add_core = DUA
-add_core = IRE
+owner = SCO
+controller = SCO
 trade_goods = cattle
-life_rating = 30
-1836.1.2 = {
-  owner = IRE
-  controller = IRE
-  remove_core = DUA
-}
+life_rating = 30	
+add_core = IRE
+add_core = SCO
+fort = 0	

@@ -1,12 +1,5 @@
-
-
-add_core = DUA
-add_core = ENL
 trade_goods = coal
-life_rating = 40
-railroad = 1
-1836.1.2 = {
-  owner = ENL
-  controller = ENL
-  remove_core = DUA
-}
+life_rating = 40	
+add_core = ENL
+fort = 0	
+railroad = 1	

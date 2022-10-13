@@ -1,18 +1,14 @@
-
-
+owner = MGH
+controller = MGH
+trade_goods = coal
+life_rating = 35	
 add_core = ARA
 add_core = SRD
 add_core = ITA
-trade_goods = coal
-naval_base = 1
-life_rating = 35
+naval_base = 1	
+fort = 0	
 state_building = {
 	level = 1
 	building = glass_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = SRD
-  controller = SRD
-  remove_core = ARA
 }

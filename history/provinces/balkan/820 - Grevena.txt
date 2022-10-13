@@ -1,6 +1,7 @@
-
-
+owner = GRE
+controller = GRE
+trade_goods = grain
+life_rating = 35	
 add_core = GRE
 add_core = MAC
-trade_goods = grain
-life_rating = 35
+fort = 0	

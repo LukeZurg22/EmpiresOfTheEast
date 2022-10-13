@@ -1,12 +1,7 @@
-
-
-add_core = BRG
-add_core = FRA
-add_core = FLA
+owner = ENL
+controller = ENL
 trade_goods = iron
-life_rating = 35
-1836.1.2 = {
-  owner = FRA
-  controller = FRA
-  remove_core = BRG
-}
+life_rating = 35	
+add_core = ENL
+add_core = FLA
+fort = 0	

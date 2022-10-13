@@ -1,15 +1,13 @@
-
-
+owner = PRV
+controller = PRV
+trade_goods = fruit
+life_rating = 40	
 add_core = PRV
 add_core = OCC
 add_core = ARP
-trade_goods = fruit
-life_rating = 40
+fort = 0	
 state_building = {
 	level = 1
 	building = clipper_shipyard
 	upgrade = yes
-}
-1836.1.2 = {
-  remove_core = OCC
 }

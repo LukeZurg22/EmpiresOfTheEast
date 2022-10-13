@@ -1,9 +1,9 @@
-
-
-add_core = HUN
+owner = SLV
+controller = SLV
 trade_goods = cattle
-life_rating = 40
-fort = 1
+life_rating = 40	
+add_core = HUN
+fort = 1	
 state_building = {
 	level = 1
 	building = canned_food_factory

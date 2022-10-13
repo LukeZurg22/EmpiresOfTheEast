@@ -1,7 +1,8 @@
-owner = SAR
-controller = SAR
+owner = SWI
+controller = SWI
+trade_goods = coal
+life_rating = 35	
 add_core = SAR
 add_core = ITA
 add_core = ARP
-trade_goods = coal
-life_rating = 35
+fort = 0	

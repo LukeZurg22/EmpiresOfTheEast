@@ -1,9 +1,10 @@
-owner = THU
-controller = THU
+owner = BRN
+controller = BRN
+trade_goods = iron
+life_rating = 38	
 add_core = THU
 add_core = GER
-trade_goods = iron
-life_rating = 38
+fort = 0	
 state_building = {
 	level = 2
 	building = steel_factory

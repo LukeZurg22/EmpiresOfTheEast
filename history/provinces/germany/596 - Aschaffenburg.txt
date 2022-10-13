@@ -1,6 +1,7 @@
-owner = BAV
-controller = BAV
-add_core = BAV
-add_core = GER
+owner = THU
+controller = THU
 trade_goods = grain
-life_rating = 38
+life_rating = 38	
+add_core = THU
+add_core = GER
+fort = 0	

@@ -1,7 +1,9 @@
-owner = BAD
-controller = BAD
+owner = THU
+controller = THU
+trade_goods = grain
+life_rating = 38	
 add_core = BAD
 add_core = SGF
 add_core = GER
-trade_goods = grain
-life_rating = 38
+add_core = THU
+fort = 0	

@@ -1,7 +1,9 @@
-
-
-add_core = TUN
+owner = MGH
+controller = MGH
 trade_goods = fruit
-life_rating = 35
+life_rating = 35	
+add_core = TUN
+add_core = MGH
 terrain = plains
-naval_base = 1
+naval_base = 1	
+fort = 0	

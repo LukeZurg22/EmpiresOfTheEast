@@ -1,7 +1,9 @@
-
-
+owner = CRO
+controller = CRO
+trade_goods = fish
+life_rating = 35	
 add_core = SER
 add_core = YUG
-trade_goods = fish
-naval_base = 1
-life_rating = 35
+add_core = ALB
+naval_base = 1	
+fort = 0	

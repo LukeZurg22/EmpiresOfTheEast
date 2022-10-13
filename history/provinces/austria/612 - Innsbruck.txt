@@ -1,10 +1,11 @@
-
-
+owner = TIR
+controller = TIR
+trade_goods = timber
+life_rating = 38	
 add_core = TIR
 add_core = SGF
 add_core = GER
-trade_goods = timber
-life_rating = 38
+fort = 0	
 state_building = {
 	level = 1
 	building = lumber_mill

@@ -1,15 +1,15 @@
-owner = BAV
-controller = BAV
-add_core = BAV
-add_core = GER
+owner = THU
+controller = THU
 trade_goods = fruit
-life_rating = 38
+life_rating = 38	
+add_core = THU
+add_core = GER
+fort = 0	
 state_building = {
 	level = 2
 	building = canned_food_factory
 	upgrade = yes
 }
-
 state_building = {
 	level = 2
 	building = lumber_mill

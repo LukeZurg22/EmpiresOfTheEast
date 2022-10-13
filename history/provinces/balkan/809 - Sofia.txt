@@ -1,5 +1,6 @@
-
-
-add_core = BUL
+owner = SER
+controller = SER
 trade_goods = timber
-life_rating = 40
+life_rating = 40	
+add_core = BUL
+fort = 0	

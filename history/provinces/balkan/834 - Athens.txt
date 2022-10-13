@@ -1,6 +1,7 @@
-
-
-add_core = GRE
+owner = GRE
+controller = GRE
 trade_goods = fruit
-naval_base = 2
-life_rating = 40
+life_rating = 40	
+add_core = GRE
+naval_base = 2	
+fort = 0	

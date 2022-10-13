@@ -1,11 +1,6 @@
-
-
-add_core = DUA
-add_core = WLS
+owner = WLS
+controller = WLS
 trade_goods = iron
-life_rating = 35
-1836.1.2 = {
-  owner = WLS
-  controller = WLS
-  remove_core = DUA
-}
+life_rating = 35	
+add_core = WLS
+fort = 0	

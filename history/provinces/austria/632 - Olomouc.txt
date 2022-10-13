@@ -1,5 +1,7 @@
-
-
-add_core = BOH
+owner = SLV
+controller = SLV
 trade_goods = coal
-life_rating = 38
+life_rating = 38	
+add_core = BOH
+add_core = SLV
+fort = 0	

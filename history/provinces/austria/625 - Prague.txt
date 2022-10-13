@@ -1,8 +1,9 @@
-
-
-add_core = BOH
+owner = BOH
+controller = BOH
 trade_goods = coal
-life_rating = 45
+life_rating = 45	
+add_core = BOH
+fort = 0	
 state_building = {
 	level = 1
 	building = steel_factory

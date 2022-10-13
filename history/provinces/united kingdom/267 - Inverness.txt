@@ -1,12 +1,7 @@
-
-
-add_core = SCA
-add_core = SCO
+owner = SCO
+controller = SCO
 trade_goods = sulphur
-life_rating = 35
-naval_base = 2
-1836.1.2 = {
-  owner = SCO
-  controller = SCO
-  remove_core = SCA
-}
+life_rating = 35	
+add_core = SCO
+naval_base = 2	
+fort = 0	

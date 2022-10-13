@@ -1,10 +1,10 @@
-
-
+owner = SPA
+controller = SPA
+trade_goods = cattle
+life_rating = 40	
 add_core = SPA
 add_core = IBR
-trade_goods = cattle
-life_rating = 40
-fort = 1
+fort = 1	
 state_building = {
 	level = 2
 	building = ammunition_factory

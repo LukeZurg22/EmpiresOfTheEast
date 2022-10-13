@@ -1,11 +1,7 @@
-
-
+owner = LRR
+controller = LRR
+trade_goods = coal
+life_rating = 35	
 add_core = BRG
 add_core = LRR
-trade_goods = coal
-life_rating = 35
-1836.1.2 = {
-  owner = LRR
-  controller = LRR
-  remove_core = BRG
-}
+fort = 0	

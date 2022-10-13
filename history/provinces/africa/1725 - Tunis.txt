@@ -1,16 +1,9 @@
-
-
-add_core = ARA
+owner = MGH
+controller = MGH
+trade_goods = grain
+life_rating = 40	
+colonial = 2	
 add_core = TUN
 add_core = MGH
-trade_goods = grain
-life_rating = 40
-colonial = 2
-naval_base = 2
-1836.1.2 = {
-  owner = TUN
-  controller = TUN
-  remove_core = ARA
-  remove_core = MGH
-  colonial = 0
-}
+naval_base = 2	
+fort = 0	

@@ -1,12 +1,8 @@
-
-
+owner = SER
+controller = SER
+trade_goods = timber
+life_rating = 35	
 add_core = SLA
 add_core = HUN
 add_core = YUG
-trade_goods = timber
-life_rating = 35
-1836.1.2 = {
-  owner = SLA
-  controller = SLA
-  remove_core = HUN
-}
+fort = 0	

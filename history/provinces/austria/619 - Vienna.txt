@@ -1,11 +1,12 @@
-
-
+owner = SLV
+controller = SLV
+trade_goods = grain
+life_rating = 45	
 add_core = AUS
 add_core = SGF
 add_core = GER
-trade_goods = grain
-life_rating = 45
-fort = 1
+add_core = SLV
+fort = 1	
 state_building = {
 	level = 1
 	building = regular_clothes_factory

@@ -1,13 +1,6 @@
-
-
-add_core = DUA
-add_core = FRA
-add_core = BRT
+owner = BRT
+controller = BRT
 trade_goods = grain
-life_rating = 35
-1836.1.2 = {
-  owner = BRT
-  controller = BRT
-  remove_core = FRA
-  remove_core = DUA
-}
+life_rating = 35	
+add_core = BRT
+fort = 0	

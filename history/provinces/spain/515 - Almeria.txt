@@ -1,6 +1,7 @@
-
-
+owner = GRN
+trade_goods = iron
+life_rating = 35	
 add_core = SPA
 add_core = IBR
-trade_goods = iron
-life_rating = 35
+add_core = CAT
+fort = 0	

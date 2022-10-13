@@ -1,9 +1,10 @@
-
-
+owner = LRR
+controller = LRR
+trade_goods = iron
+life_rating = 40	
 add_core = BRG
 add_core = LUX
-trade_goods = iron
-life_rating = 40
+fort = 0	
 state_building = {
 	level = 2
 	building = steel_factory
@@ -18,9 +19,4 @@ state_building = {
 	level = 1
 	building = machine_parts_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = LUX
-  controller = LUX
-  remove_core = BRG
 }

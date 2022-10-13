@@ -1,7 +1,8 @@
-
-
+owner = CAT
+controller = CAT
+trade_goods = iron
+life_rating = 35	
 add_core = SPA
 add_core = IBR
-trade_goods = iron
-life_rating = 35
-naval_base = 2
+naval_base = 2	
+fort = 0	

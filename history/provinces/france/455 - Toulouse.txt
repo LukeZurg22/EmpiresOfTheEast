@@ -1,11 +1,7 @@
-
-
+owner = NAV
+controller = NAV
+trade_goods = grain
+life_rating = 40	
 add_core = DUA
 add_core = OCC
-trade_goods = grain
-life_rating = 40
-1836.1.2 = {
-  owner = OCC
-  controller = OCC
-  remove_core = DUA
-}
+fort = 0	

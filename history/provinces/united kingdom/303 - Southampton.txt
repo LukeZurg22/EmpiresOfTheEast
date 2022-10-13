@@ -1,12 +1,7 @@
-
-
-add_core = DUA
-add_core = ENL
+owner = ENL
+controller = ENL
 trade_goods = fish
-life_rating = 35
-naval_base = 2
-1836.1.2 = {
-  owner = ENL
-  controller = ENL
-  remove_core = DUA
-}
+life_rating = 35	
+add_core = ENL
+naval_base = 2	
+fort = 0	

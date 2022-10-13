@@ -1,6 +1,8 @@
-owner = HEK
-controller = HEK
+owner = THU
+controller = THU
+trade_goods = grain
+life_rating = 38	
 add_core = HEK
 add_core = GER
-trade_goods = grain
-life_rating = 38
+add_core = THU
+fort = 0	

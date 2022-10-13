@@ -1,7 +1,8 @@
-
-
+owner = ALB
+controller = ALB
+trade_goods = fruit
+life_rating = 35	
 add_core = MAC
 add_core = SER
 add_core = ALB
-trade_goods = fruit
-life_rating = 35
+fort = 0	

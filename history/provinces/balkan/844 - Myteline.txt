@@ -1,13 +1,6 @@
-
-
-add_core = VEN
-add_core = TUR
-add_core = GRE
+owner = GRE
+controller = GRE
 trade_goods = grain
-life_rating = 30
-1836.1.2 = {
-  owner = GRE
-  controller = GRE
-  remove_core = VEN
-  remove_core = TUR
-}
+life_rating = 30	
+add_core = GRE
+fort = 0	

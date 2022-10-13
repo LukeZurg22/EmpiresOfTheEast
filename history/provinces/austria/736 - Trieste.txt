@@ -1,12 +1,13 @@
-
-
+owner = VEN
+controller = VEN
+trade_goods = grain
+life_rating = 40	
 add_core = VEN
 add_core = SLO
 add_core = YUG
 add_core = CRO
-trade_goods = grain
-life_rating = 40
-naval_base = 2
+naval_base = 2	
+fort = 0	
 state_building = {
 	level = 2
 	building = liquor_distillery
@@ -16,10 +17,4 @@ state_building = {
 	level = 1
 	building = winery
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = SLO
-  controller = SLO
-  remove_core = VEN
-	remove_core = CRO
 }

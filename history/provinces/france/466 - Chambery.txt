@@ -1,7 +1,9 @@
-
-
+owner = PRV
+controller = PRV
+trade_goods = grain
+life_rating = 35	
 add_core = SAR
 add_core = ITA
 add_core = ARP
-trade_goods = grain
-life_rating = 35
+add_core = PRV
+fort = 0	

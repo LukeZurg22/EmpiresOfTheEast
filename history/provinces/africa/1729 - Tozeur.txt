@@ -1,9 +1,7 @@
-
-
+owner = MGH
+controller = MGH
+trade_goods = wool
+life_rating = 10	
 add_core = TUN
 add_core = MGH
-trade_goods = wool
-life_rating = 10
-1836.1.2 = {
-  remove_core = MGH
-}
+fort = 0	

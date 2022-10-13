@@ -1,9 +1,10 @@
-owner = HAN
-controller = HAN
+owner = BRN
+controller = BRN
+trade_goods = cattle
+life_rating = 38	
 add_core = HAN
 add_core = GER
-trade_goods = cattle
-life_rating = 38
+fort = 0	
 state_building = {
 	level = 1
 	building = canned_food_factory

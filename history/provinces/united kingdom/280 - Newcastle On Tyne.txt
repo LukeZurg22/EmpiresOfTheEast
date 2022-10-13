@@ -1,11 +1,9 @@
-
-
-add_core = DUA
-add_core = ENL
 trade_goods = coal
-life_rating = 40
+life_rating = 40	
+add_core = ENL
+fort = 0	
 state_building = {
-level = 2
+	level = 2
 	building = steel_factory
 	upgrade = yes
 }
@@ -18,9 +16,4 @@ state_building = {
 	level = 2
 	building = clipper_shipyard
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = ENL
-  controller = ENL
-  remove_core = DUA
 }

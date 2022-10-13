@@ -1,6 +1,8 @@
-
-
+owner = GAL
+controller = GAL
+trade_goods = coal
+life_rating = 35	
 add_core = SPA
 add_core = IBR
-trade_goods = coal
-life_rating = 35
+add_core = GAL
+fort = 0	

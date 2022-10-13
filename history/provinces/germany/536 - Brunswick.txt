@@ -1,6 +1,7 @@
-owner = BRA
-controller = BRA
+owner = BRN
+controller = BRN
+trade_goods = fruit
+life_rating = 40	
 add_core = BRA
 add_core = GER
-trade_goods = fruit
-life_rating = 40
+fort = 0	

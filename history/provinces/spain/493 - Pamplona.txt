@@ -1,6 +1,7 @@
-
-
+owner = NAV
+controller = NAV
+trade_goods = fruit
+life_rating = 35	
 add_core = NAV
 add_core = IBR
-trade_goods = fruit
-life_rating = 35
+fort = 0	

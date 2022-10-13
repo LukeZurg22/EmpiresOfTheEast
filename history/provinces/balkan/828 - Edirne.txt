@@ -1,5 +1,6 @@
-
-
-add_core = TUR
+owner = BUL
+controller = BUL
 trade_goods = tobacco
-life_rating = 40
+life_rating = 40	
+add_core = TUR
+fort = 0	

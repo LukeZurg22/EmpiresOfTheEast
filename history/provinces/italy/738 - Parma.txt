@@ -1,6 +1,8 @@
-
-
+owner = LOM
+controller = LOM
+trade_goods = iron
+life_rating = 40	
 add_core = PAR
 add_core = ITA
-trade_goods = iron
-life_rating = 40
+add_core = LOM
+fort = 0	

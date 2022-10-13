@@ -1,9 +1,6 @@
-
-
-add_core = SLV
-add_core = HUN
+owner = SLV
+controller = SLV
 trade_goods = coal
-life_rating = 35
-1836.1.2 = {
-  remove_core = HUN
-}
+life_rating = 35	
+add_core = SLV
+fort = 0	

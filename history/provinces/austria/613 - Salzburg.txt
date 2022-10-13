@@ -1,18 +1,15 @@
-
-
+owner = AUS
+controller = AUS
+trade_goods = grain
+life_rating = 40	
 add_core = TIR
 add_core = GER
 add_core = BAV
 add_core = SGF
 add_core = AUS
-trade_goods = grain
-life_rating = 40
+fort = 0	
 state_building = {
 	level = 1
 	building = ammunition_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  remove_core = BAV
-	remove_core = AUS
 }

@@ -1,17 +1,12 @@
-
-
-add_core = DUA
-add_core = FRA
+owner = BRT
+controller = BRT
 trade_goods = cattle
-life_rating = 40
-naval_base = 2
+life_rating = 40	
+add_core = FRA
+naval_base = 2	
+fort = 0	
 state_building = {
 	level = 2
 	building = regular_clothes_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = FRA
-  controller = FRA
-  remove_core = DUA
 }

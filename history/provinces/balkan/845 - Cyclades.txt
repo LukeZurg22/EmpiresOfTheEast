@@ -1,6 +1,7 @@
-
-
-add_core = GRE
+owner = GRE
+controller = GRE
 trade_goods = fish
-life_rating = 30
+life_rating = 30	
+add_core = GRE
 terrain = small_island
+fort = 0	

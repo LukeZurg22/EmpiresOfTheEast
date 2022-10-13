@@ -1,5 +1,6 @@
-
-
-add_core = MGH
+owner = MGH
+controller = MGH
 trade_goods = wool
-life_rating = 10
+life_rating = 10	
+add_core = MGH
+fort = 0	

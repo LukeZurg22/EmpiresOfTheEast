@@ -1,6 +1,7 @@
-
-
-add_core = MGH
+owner = CAT
+controller = CAT
 trade_goods = wool
-life_rating = 30
+life_rating = 30	
+add_core = MGH
 terrain = semidesert
+fort = 0	

@@ -1,12 +1,7 @@
-
-
-add_core = BRG
-add_core = FLA
+owner = WLL
+controller = WLL
 trade_goods = sulphur
-life_rating = 40
-railroad = 1
-1836.1.2 = {
-  owner = FLA
-  controller = FLA
-  remove_core = BRG
-}
+life_rating = 40	
+add_core = FLA
+fort = 0	
+railroad = 1	
