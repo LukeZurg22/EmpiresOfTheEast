@@ -5,4 +5,5 @@ life_rating = 35
 add_core = ARA
 add_core = CAT
 add_core = IBR
+add_core = NAV
 fort = 0	

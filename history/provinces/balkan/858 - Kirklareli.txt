@@ -2,5 +2,5 @@ owner = BUL
 controller = BUL
 trade_goods = tobacco
 life_rating = 35	
-add_core = TUR
+add_core = BUL
 fort = 0	

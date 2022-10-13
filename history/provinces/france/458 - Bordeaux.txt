@@ -3,6 +3,7 @@ controller = BRT
 trade_goods = fruit
 life_rating = 40	
 add_core = OCC
+add_core = BRT
 naval_base = 2	
 fort = 0	
 state_building = {
