@@ -1,6 +1,6 @@
-
-
-add_core = SCA
+owner = NOR
+controller = NOR
 trade_goods = fish
 life_rating = 35
+add_core = NOR
 naval_base = 1

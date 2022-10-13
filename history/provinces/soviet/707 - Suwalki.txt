@@ -1,10 +1,5 @@
-
-
-add_core = PLC
-add_core = POL
+owner = PRU
+controller = PRU
 trade_goods = grain
 life_rating = 35
-1836.1.2 = {
-	owner = POL
-	controller = POL
-}
+add_core = PRU

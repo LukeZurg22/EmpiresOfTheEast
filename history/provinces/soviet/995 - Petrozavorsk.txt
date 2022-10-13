@@ -1,6 +1,6 @@
-
-
-add_core = RUS
-add_core = NOV
+owner = KRL
+controller = KRL
 trade_goods = grain
 life_rating = 35
+add_core = RUS
+add_core = KRL

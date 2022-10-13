@@ -1,11 +1,5 @@
-
-
-add_core = SCA
-add_core = FIN
+owner = FIN
+controller = FIN
 trade_goods = grain
 life_rating = 40
-1836.1.2 = {
-	owner = FIN
-	controller = FIN
-	remove_core = SCA
-}
+add_core = FIN

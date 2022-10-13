@@ -833,6 +833,21 @@ baltic = {
 		}
 	}
 
+	zyrgi = {
+		color = {220 220 220}
+		first_names = { Aadu Alar Heino Hendrik Hjalmar Ivari Thundasmacka
+		Jaan Jakob Johannes Joosep Juhan Julius Jri Kaarel Kalev Konstantin Borscjtesckinzad
+		Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent Borscjt
+		Ragnar Siiri Sven Tarmo Tnis Toomas Uno Valmar Villwm Voldemar Yuri
+		}
+
+		last_names = { Kangro Kint Klaasen Koern Kiv Kotli Kumari Kupine Kuusik Leppik
+		Lipping Lohk Me Mnnil Moora Natus Nurkse Nurmekund kva pik
+		Orkivu Pts Perna Piiper Poska Puusepp Rnk Rei Siinmaa Tardid
+		Sikkar Sirk Tnisson Uluots Vaga Veske Vilbaste Zurg
+		}
+	}
+
 }
 
 levantine = {

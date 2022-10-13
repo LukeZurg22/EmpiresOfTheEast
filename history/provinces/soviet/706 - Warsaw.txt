@@ -1,15 +1,11 @@
-
-
-add_core = PLC
-add_core = POL
+owner = POL
+controller = POL
 trade_goods = cattle
 life_rating = 40
+add_core = PLC
+add_core = POL
 state_building = {
 	level = 1
 	building = fabric_factory
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = POL
-	controller = POL
 }

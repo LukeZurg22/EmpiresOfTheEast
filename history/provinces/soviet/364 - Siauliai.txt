@@ -1,6 +1,6 @@
-
-
-add_core = PLC
-add_core = LIT
+owner = LIT
+controller = LIT
 trade_goods = cattle
-life_rating = 35
+life_rating = 40	
+add_core = LIT
+fort = 0	

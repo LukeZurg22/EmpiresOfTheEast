@@ -1,8 +1,8 @@
-
-
-add_core = SCA
+owner = DEN
+controller = DEN
 trade_goods = precious_goods
 life_rating = 40
+add_core = DEN
 naval_base = 2
 fort = 1
 state_building = {

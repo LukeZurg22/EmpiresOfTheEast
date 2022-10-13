@@ -1,12 +1,7 @@
-owner = SCA
-controller = SCA
-add_core = SCA
-add_core = GER
-add_core = POM
+owner = PRU
+controller = PRU
 trade_goods = grain
 life_rating = 38
-1836.1.2 = {
-	owner = POM
-	controller = POM
-	remove_core = SCA
-}
+add_core = PRU
+add_core = GER
+add_core = POM

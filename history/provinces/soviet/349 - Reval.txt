@@ -1,12 +1,8 @@
-
-
-add_core = SCA
-add_core = EST
+owner = EST
+controller = EST
 trade_goods = grain
 life_rating = 40
+add_core = ZUR
+add_core = EST
+naval_base = 1
 fort = 1
-1836.1.2 = {
-	owner = EST
-	controller = EST
-	remove_core = SCA
-}

@@ -1,11 +1,7 @@
-
-
-add_core = SCA
-add_core = EST
+owner = ZUR
+controller = ZUR
 trade_goods = cattle
-life_rating = 35
-1836.1.2 = {
-	owner = EST
-	controller = EST
-	remove_core = SCA
-}
+life_rating = 40	
+add_core = EST
+add_core = ZUR
+fort = 0	

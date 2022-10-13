@@ -1,9 +1,5 @@
-
-
-add_core = SLV
-add_core = HUN
+owner = SLA
 trade_goods = grain
 life_rating = 35
-1836.1.2 = {
-  remove_core = HUN
-}
+add_core = SLV
+add_core = HUN

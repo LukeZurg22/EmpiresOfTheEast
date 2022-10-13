@@ -1,13 +1,6 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-add_core = POL
-add_core = PRU
+owner = DZG
+controller = DZG
 trade_goods = fish
 life_rating = 40
+add_core = PRU
 naval_base = 2
-1836.1.2 = {
-	owner = PRU
-	controller = PRU
-	remove_core = POL
-}

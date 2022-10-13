@@ -1,12 +1,8 @@
-
-
+owner = EST
+controller = EST
+trade_goods = fish
+life_rating = 45	
 add_core = SCA
 add_core = LAT
-trade_goods = fish
-life_rating = 40
-naval_base = 2
-1836.1.2 = {
-	owner = LAT
-	controller = LAT
-	remove_core = SCA
-}
+naval_base = 2	
+fort = 0	

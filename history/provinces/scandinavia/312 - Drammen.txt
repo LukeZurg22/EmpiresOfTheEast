@@ -1,5 +1,5 @@
-
-
-add_core = SCA
+owner = NOR
+controller = NOR
 trade_goods = precious_metal
 life_rating = 35
+add_core = NOR

@@ -1,11 +1,6 @@
-owner = BOH
-controller = BOH
-add_core = BOH
-add_core = SIL
+owner = KRA
+controller = KRA
 trade_goods = coal
 life_rating = 38
-1836.1.2 = {
-	owner = SIL
-	controller = SIL
-	remove_core = BOH
-}
+add_core = KRA
+add_core = SIL

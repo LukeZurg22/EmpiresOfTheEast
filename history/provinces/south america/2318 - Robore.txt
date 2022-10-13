@@ -1,4 +1,4 @@
-add_core = AVA
 trade_goods = wool
-terrain = savanna
 life_rating = 30
+add_core = AVA
+terrain = savanna

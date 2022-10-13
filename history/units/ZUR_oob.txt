@@ -1,0 +1,145 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Army of Borscjt"
+location = 350
+regiment = {
+name = "Regiment 0"
+type = infantry
+home = 350
+}
+regiment = {
+name = "Regiment 1"
+type = infantry
+home = 350
+}
+regiment = {
+name = "Regiment 2"
+type = infantry
+home = 350
+}
+regiment = {
+name = "Regiment 3"
+type = infantry
+home = 350
+}
+regiment = {
+name = "Regiment 4"
+type = infantry
+home = 350
+}
+regiment = {
+name = "Regiment 5"
+type = infantry
+home = 350
+}
+regiment = {
+name = "Regiment 6"
+type = hussar
+home = 350
+}
+regiment = {
+name = "Regiment 7"
+type = dragoon
+home = 350
+}
+regiment = {
+name = "Regiment 8"
+type = dragoon
+home = 350
+}
+regiment = {
+name = "Regiment 9"
+type = dragoon
+home = 350
+}
+regiment = {
+name = "Regiment 10"
+type = dragoon
+home = 350
+}
+}
+army = {
+name = "Borscjtesckinzad's Brigade"
+location = 352
+regiment = {
+name = "Regiment 0"
+type = artillery
+home = 352
+}
+regiment = {
+name = "Regiment 1"
+type = artillery
+home = 352
+}
+regiment = {
+name = "Regiment 2"
+type = artillery
+home = 352
+}
+regiment = {
+name = "Regiment 3"
+type = artillery
+home = 352
+}
+regiment = {
+name = "Regiment 4"
+type = artillery
+home = 352
+}
+regiment = {
+name = "Regiment 5"
+type = infantry
+home = 352
+}
+regiment = {
+name = "Regiment 6"
+type = infantry
+home = 352
+}
+regiment = {
+name = "Regiment 7"
+type = infantry
+home = 352
+}
+regiment = {
+name = "Regiment 8"
+type = infantry
+home = 352
+}
+regiment = {
+name = "Regiment 9"
+type = hussar
+home = 352
+}
+}
+
+
+#========================= S E A =========================
+
+navy = {
+name = "Zurgatland Raiding Fleet"
+location = 354
+ship = {
+name = "Ship 0"
+type = frigate
+}
+ship = {
+name = "Ship 1"
+type = frigate
+}
+ship = {
+name = "Ship 2"
+type = frigate
+}
+ship = {
+name = "Ship 3"
+type = frigate
+}
+}
+
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+

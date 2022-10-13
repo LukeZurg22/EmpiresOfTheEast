@@ -1,0 +1,6 @@
+name = "Empires Of The East"
+path = "mod/EmpiresOfTheEast"
+user_dir = "EmpiresOfTheEast"
+replace_path = "history/provinces"
+replace_path = "map"
+definitions = "map/definition.csv"

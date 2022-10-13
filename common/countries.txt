@@ -3,6 +3,9 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
+#Zurgs Additions
+ZUR = "countries/Zurgatland.txt"
+
 #Rileyo Additions/reuse
 
 ARP   = "countries/Arpitania.txt"

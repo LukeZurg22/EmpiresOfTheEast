@@ -1,5 +1,5 @@
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = KRA
+controller = KRA
 trade_goods = coal
 life_rating = 38
+add_core = KRA

@@ -1,6 +1,8 @@
-
-
-add_core = KRL
-naval_base = 1
+owner = ZUR
+controller = ZUR
 trade_goods = cattle
-life_rating = 35
+life_rating = 40	
+add_core = ZUR
+add_core = KRL
+naval_base = 1	
+fort = 0	

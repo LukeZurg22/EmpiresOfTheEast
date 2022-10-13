@@ -1,11 +1,5 @@
-
-
-add_core = SCA
-add_core = FIN
+owner = KRL
+controller = KRL
 trade_goods = timber
 life_rating = 35
-1836.1.2 = {
-	owner = FIN
-	controller = FIN
-	remove_core = SCA
-}
+add_core = KRL
