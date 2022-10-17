@@ -1,7 +1,9 @@
 owner = NAS
 controller = NAS
+trade_goods = cattle
+life_rating = 38	
 add_core = NAS
 add_core = WES
 add_core = GER
-trade_goods = cattle
-life_rating = 38
+add_core = RHI
+fort = 0	

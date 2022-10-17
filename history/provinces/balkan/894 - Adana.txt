@@ -1,11 +1,7 @@
-
-
-add_core = TUR
-add_core = CLC
+owner = BYZ
+controller = BYZ
 trade_goods = wool
-life_rating = 35
-1836.1.2 = {
-  owner = CLC
-  controller = CLC
-  remove_core = TUR
-}
+life_rating = 35	
+add_core = BYZ
+add_core = CLC
+fort = 0	

@@ -1,99 +1,46 @@
-#PLC substates
+#French Substate of Lorraine
 substate = {
-	first = PLC
-	second = LIT
-	start_date = 1836.1.1
-	end_date = 1836.1.2
-}
-substate = {
-	first = PLC
-	second = UKR
-	start_date = 1836.1.1
-	end_date = 1836.1.2
-}
-substate = {
-	first = PLC
-	second = BLR
-	start_date = 1836.1.1
-	end_date = 1836.1.2
-}
-substate = {
-	first = PLC
-	second = PRU
+	first = FRA
+	second = LRR
 	start_date = 1836.1.1
 	end_date = 1836.1.2
 }
 
-# Aragonese-Navarran Personal Union
-vassal = {
-	first = ARA
-	second = NAV
-	start_date = 1815.11.9
+#French Substate of Provence
+substate = {
+	first = FRA
+	second = PRV
+	start_date = 1836.1.1
 	end_date = 1836.1.2
 }
 
-# SCA - Pskov
-
+#Serbian Vassalship Under Bulgar Empire
 vassal = {
-	first = SCA
-	second = PSV
-	start_date = 1815.11.9
-	end_date = 1836.1.2
-}
-
-
-# Oldenburg - Personal Union under Scandinavia
-
-vassal = {
-	first = SCA
-	second = OLD
-	start_date = 1815.11.9
-	end_date = 1836.1.2
-}
-
-# Japanese Protectorate of Ainu
-vassal = {
-	first = JAP
-	second = AIN
-	start_date = 1827.11.9
-	end_date = 1836.1.2
-}
-
-vassal = {
-	first = ASK
-	second = CIR
+	first = BUL
+	second = SER
 	start_date = 1830.1.1
 	end_date = 1836.1.2
 }
 
-# Japanese Vassal Colony of Kita Kaiga
+#Danzigger Vassalship Under Prussia
 vassal = {
-	first = JAP
-	second = KKN
-	start_date = 1827.11.9
+	first = PRU
+	second = DZG
+	start_date = 1830.1.1
 	end_date = 1836.1.2
 }
 
-# Dahomey Tributary
+#Bohemia's Vassal of Saxony/Sedlec
 vassal = {
-	first = OYO
-	second = DHY
-	start_date = 1836.1.1
+	first = BOH
+	second = SAX
+	start_date = 1830.1.1
 	end_date = 1836.1.2
 }
 
-#Greek Vassal State
-vassal = {
-	first = VEN
-	second = GRE
-	start_date = 1835.12.30
-	end_date = 1836.1.2
-}
-
-#Slovak Substate
-substate = {
-	first = HUN
-	second = SLV
-	start_date = 1835.1.1
-	end_date = 1836.1.2
-}
+#vassal = {
+#	first = ASK
+#	second = CIR
+#	start_date = 1830.1.1
+#	end_date = 1836.1.2
+#}

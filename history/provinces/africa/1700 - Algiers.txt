@@ -4,5 +4,6 @@ trade_goods = grain
 life_rating = 35	
 colonial = 2	
 add_core = MGH
+add_core = CAT
 naval_base = 1	
 fort = 0	

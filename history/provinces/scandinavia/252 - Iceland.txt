@@ -1,11 +1,6 @@
-
-
-add_core = ICL
-add_core = SCA
+owner = ICL
+controller = ICL
 trade_goods = fish
-life_rating = 35
-1836.1.2 = {
-	owner = ICL
-	controller = ICL
-	remove_core = SCA
-}
+life_rating = 35	
+add_core = ICL
+fort = 0	

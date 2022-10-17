@@ -5,4 +5,5 @@ life_rating = 40
 add_core = BUL
 add_core = MAC
 add_core = SER
+add_core = ALB
 fort = 0	

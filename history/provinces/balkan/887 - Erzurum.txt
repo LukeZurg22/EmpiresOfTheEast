@@ -1,12 +1,7 @@
-
-
-add_core = TUR
-add_core = KUR
-add_core = ARM
+owner = ARM
+controller = ARM
 trade_goods = cattle
-life_rating = 35
-1836.1.2 = {
-  owner = ARM
-  controller = ARM
-  remove_core = TUR
-}
+life_rating = 35	
+add_core = ARM
+add_core = KUR
+fort = 0	

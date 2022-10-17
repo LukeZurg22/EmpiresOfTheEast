@@ -1,13 +1,7 @@
-
-
-add_core = TUR
-add_core = SYR
-add_core = LBN
+owner = PLS
+controller = PLS
 trade_goods = fruit
-life_rating = 35
-1836.1.2 = {
-  owner = LBN
-  controller = LBN
-  remove_core = TUR
-  remove_core = SYR
-}
+life_rating = 35	
+add_core = LBN
+add_core = PLS
+fort = 0	

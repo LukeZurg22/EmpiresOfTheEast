@@ -1,4 +1,7 @@
-add_core = ANI
+owner = ANI
+controller = ANI
 trade_goods = timber
+life_rating = 15	
+add_core = ANI
 terrain = new_world_arctic
-life_rating = 15
+fort = 0	

@@ -1,11 +1,7 @@
-
-
-add_core = TUR
-add_core = PNT
+owner = BYZ
+controller = BYZ
 trade_goods = fish
-life_rating = 35
-1836.1.2 = {
-  owner = PNT
-  controller = PNT
-  remove_core = TUR
-}
+life_rating = 35	
+add_core = BYZ
+add_core = PNT
+fort = 0	

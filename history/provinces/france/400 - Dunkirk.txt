@@ -4,5 +4,6 @@ trade_goods = fish
 life_rating = 35	
 add_core = ENL
 add_core = FLA
+add_core = FRA
 naval_base = 2	
 fort = 2	

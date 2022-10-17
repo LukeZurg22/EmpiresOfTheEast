@@ -1,7 +1,9 @@
 owner = MNR
 controller = MNR
+trade_goods = coal
+life_rating = 40	
 add_core = MNR
 add_core = WES
 add_core = GER
-trade_goods = coal
-life_rating = 40
+add_core = RHI
+fort = 0	

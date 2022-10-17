@@ -2,6 +2,5 @@ owner = WLL
 controller = WLL
 trade_goods = coal
 life_rating = 35	
-add_core = FRA
 add_core = WLL
 fort = 0	

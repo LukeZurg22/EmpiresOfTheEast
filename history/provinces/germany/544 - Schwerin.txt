@@ -1,10 +1,11 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = HOL
+controller = HOL
+trade_goods = grain
+life_rating = 38	
+add_core = HOL
 add_core = GER
 add_core = POM
-trade_goods = grain
-life_rating = 38
+fort = 0	
 state_building = {
 	level = 2
 	building = fabric_factory
@@ -24,9 +25,4 @@ state_building = {
 	level = 2
 	building = regular_clothes_factory
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = POM
-	controller = POM
-	remove_core = SCA
 }

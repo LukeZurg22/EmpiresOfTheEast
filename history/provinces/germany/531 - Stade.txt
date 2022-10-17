@@ -1,6 +1,8 @@
-owner = HAN
-controller = HAN
+owner = HOL
+controller = HOL
+trade_goods = cattle
+life_rating = 38	
 add_core = HAN
 add_core = GER
-trade_goods = cattle
-life_rating = 38
+add_core = HOL
+fort = 0	

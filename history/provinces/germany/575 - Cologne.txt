@@ -1,10 +1,11 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = RHI
+controller = RHI
+trade_goods = coal
+life_rating = 45	
 add_core = RHI
 add_core = GER
-trade_goods = coal
-life_rating = 45
+add_core = BRG
+fort = 0	
 state_building = {
 	level = 2
 	building = fabric_factory
@@ -19,9 +20,4 @@ state_building = {
 	level = 2
 	building = machine_parts_factory
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = RHI
-	controller = RHI
-	remove_core = BRG
 }

@@ -2,7 +2,6 @@ owner = SLV
 controller = SLV
 trade_goods = cattle
 life_rating = 40	
-add_core = HUN
 fort = 1	
 state_building = {
 	level = 1

@@ -1,14 +1,8 @@
-
-
-add_core = TUR
+owner = SYR
+controller = SYR
+trade_goods = grain
+life_rating = 40	
 add_core = HTY
 add_core = SYR
-trade_goods = grain
-life_rating = 40
 terrain = semidesert
-1836.1.2 = {
-  owner = HTY
-  controller = HTY
-  remove_core = SYR
-  remove_core = TUR
-}
+fort = 0	

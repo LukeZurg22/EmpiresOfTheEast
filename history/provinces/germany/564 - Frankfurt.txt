@@ -5,4 +5,5 @@ life_rating = 45
 add_core = FRM
 add_core = GER
 add_core = THU
+add_core = RHI
 fort = 1	

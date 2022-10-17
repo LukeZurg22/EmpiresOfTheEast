@@ -1,11 +1,7 @@
-
-
-add_core = BRG
-add_core = LUX
+owner = LUX
+controller = LUX
 trade_goods = coal
-life_rating = 40
-1836.1.2 = {
-  owner = LUX
-  controller = LUX
-  remove_core = BRG
-}
+life_rating = 40	
+add_core = LUX
+add_core = BRG
+fort = 0	

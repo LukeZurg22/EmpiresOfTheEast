@@ -1,6 +1,7 @@
-
-
-add_core = TUR
+owner = BYZ
+controller = BYZ
 trade_goods = sulphur
-naval_base = 1
-life_rating = 40
+life_rating = 40	
+add_core = BYZ
+naval_base = 1	
+fort = 0	

@@ -1,11 +1,12 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = POM
+controller = POM
+trade_goods = fish
+life_rating = 38	
 add_core = GER
 add_core = POM
-trade_goods = fish
-life_rating = 38
-naval_base = 2
+add_core = PRU
+naval_base = 2	
+fort = 0	
 state_building = {
 	level = 1
 	building = canned_food_factory
@@ -20,9 +21,4 @@ state_building = {
 	level = 1
 	building = clipper_shipyard
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = POM
-	controller = POM
-	remove_core = SCA
 }

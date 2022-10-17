@@ -1,5 +1,5 @@
-owner = LRR
-controller = LRR
+owner = LUX
+controller = LUX
 trade_goods = iron
 life_rating = 40	
 add_core = BRG

@@ -1,5 +1,7 @@
-
-
-add_core = NEJ
+owner = HDJ
+controller = HDJ
 trade_goods = wool
-life_rating = 10
+life_rating = 10	
+add_core = NEJ
+add_core = HDJ
+fort = 0	

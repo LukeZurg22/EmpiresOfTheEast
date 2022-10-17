@@ -1,8 +1,8 @@
-
-
+owner = BYZ
+controller = BYZ
+trade_goods = fish
+life_rating = 40	
 add_core = CRI
 add_core = TAR
-trade_goods = fish
-life_rating = 40
-naval_base = 2
-fort = 1
+naval_base = 2	
+fort = 1	

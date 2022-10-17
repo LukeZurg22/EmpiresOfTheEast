@@ -1,13 +1,8 @@
-
-
-add_core = TUR
+owner = BYZ
+controller = BYZ
+trade_goods = fruit
+life_rating = 35	
+add_core = BYZ
 add_core = PNT
 add_core = ARM
-trade_goods = fruit
-life_rating = 35
-1836.1.2 = {
-  owner = PNT
-  controller = PNT
-  remove_core = TUR
-  remove_core = ARM
-}
+fort = 0	

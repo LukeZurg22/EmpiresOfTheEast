@@ -1,7 +1,8 @@
-
-
-add_core = PLC
+owner = PSV
+controller = PSV
+trade_goods = grain
+life_rating = 35	
+add_core = PSV
 add_core = LIT
 add_core = RUT
-trade_goods = grain
-life_rating = 35
+fort = 0	

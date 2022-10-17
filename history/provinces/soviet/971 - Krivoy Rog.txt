@@ -1,7 +1,8 @@
-
-
+owner = CRI
+controller = CRI
+trade_goods = iron
+life_rating = 35	
 add_core = CRI
 add_core = RUT
 add_core = TAR
-trade_goods = iron
-life_rating = 35
+fort = 0	

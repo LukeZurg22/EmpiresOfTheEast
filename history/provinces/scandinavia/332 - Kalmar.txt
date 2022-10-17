@@ -1,5 +1,6 @@
-owner = SWE
-controller = SWE
+owner = DEN
+controller = DEN
 trade_goods = grain
-life_rating = 35
-add_core = SCA
+life_rating = 35	
+add_core = SWE
+fort = 0	

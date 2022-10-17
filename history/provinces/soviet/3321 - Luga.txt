@@ -1,8 +1,0 @@
-owner = GER
-controller = LIT
-trade_goods = grain
-life_rating = 40	
-add_core = RUS
-add_core = NOV
-add_core = PSV
-fort = 0	

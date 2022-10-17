@@ -1,12 +1,8 @@
-owner = BOH
-controller = BOH
+owner = BRN
+controller = BRN
+trade_goods = coal
+life_rating = 38	
 add_core = BOH
 add_core = SAX
 add_core = GER
-trade_goods = coal
-life_rating = 38
-1836.1.2 = {
-	owner = SAX
-	controller = SAX
-	remove_core = BOH
-}
+fort = 0	

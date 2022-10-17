@@ -1,5 +1,5 @@
-owner = ALB
-controller = ALB
+owner = SER
+controller = SER
 trade_goods = timber
 life_rating = 35	
 add_core = SER

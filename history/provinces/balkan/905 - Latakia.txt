@@ -1,12 +1,7 @@
-
-
-add_core = TUR
-add_core = SYR
+owner = SYR
+controller = SYR
 trade_goods = tobacco
-life_rating = 35
+life_rating = 35	
+add_core = SYR
 terrain = hills
-1836.1.2 = {
-  owner = SYR
-  controller = SYR
-  remove_core = TUR
-}
+fort = 0	

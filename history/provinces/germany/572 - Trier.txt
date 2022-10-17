@@ -1,17 +1,13 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = LUX
+controller = LUX
+trade_goods = iron
+life_rating = 38	
 add_core = RHI
 add_core = GER
-trade_goods = iron
-life_rating = 38
+add_core = LUX
+fort = 0	
 state_building = {
 	level = 2
 	building = lumber_mill
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = RHI
-	controller = RHI
-	remove_core = BRG
 }

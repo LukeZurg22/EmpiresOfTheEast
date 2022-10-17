@@ -1,12 +1,7 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = HOL
+controller = HOL
+trade_goods = grain
+life_rating = 38	
 add_core = HOL
 add_core = GER
-trade_goods = grain
-life_rating = 38
-1836.1.2 = {
-	owner = HOL
-	controller = HOL
-	remove_core = SCA
-}
+fort = 0	

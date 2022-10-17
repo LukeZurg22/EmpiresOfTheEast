@@ -1,12 +1,7 @@
-
-
-add_core = ICL
-add_core = SCA
+owner = SCO
+controller = SCO
 trade_goods = fish
-life_rating = 30
+life_rating = 30	
+add_core = ICL
 terrain = small_island
-1836.1.2 = {
-	owner = ICL
-	controller = ICL
-	remove_core = SCA
-}
+fort = 0	

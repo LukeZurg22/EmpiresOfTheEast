@@ -1,17 +1,13 @@
-
-
+owner = NET
+controller = NET
+trade_goods = grain
+life_rating = 35	
 add_core = BRG
 add_core = NET
-naval_base = 2
-trade_goods = grain
-life_rating = 35
+naval_base = 2	
+fort = 0	
 state_building = {
 	level = 1
 	building = clipper_shipyard
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = NET
-  controller = NET
-  remove_core = BRG
 }

@@ -3,7 +3,6 @@ controller = LRR
 trade_goods = grain
 life_rating = 40	
 add_core = LRR
-add_core = RHI
 fort = 0	
 state_building = {
 	level = 2

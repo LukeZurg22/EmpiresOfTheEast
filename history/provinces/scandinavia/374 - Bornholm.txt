@@ -1,6 +1,7 @@
-
-
-add_core = SCA
+owner = DEN
+controller = DEN
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+add_core = DEN
 terrain = small_island
+fort = 0	

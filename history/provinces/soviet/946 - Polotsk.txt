@@ -1,8 +1,9 @@
-
-
+owner = PSV
+controller = PSV
+trade_goods = wool
+life_rating = 35	
 add_core = BLR
-add_core = PLC
+add_core = PSV
 add_core = RUT
 add_core = RUS
-trade_goods = wool
-life_rating = 35
+fort = 0	

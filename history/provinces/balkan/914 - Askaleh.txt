@@ -1,14 +1,8 @@
-
-
-add_core = SYR
-add_core = TUR
-add_core = LBN
+owner = SYR
+controller = SYR
 trade_goods = iron
-life_rating = 35
+life_rating = 35	
+add_core = SYR
+add_core = LBN
 terrain = hills
-1836.1.2 = {
-  owner = LBN
-  controller = LBN
-  remove_core = SYR
-  remove_core = TUR
-}
+fort = 0	

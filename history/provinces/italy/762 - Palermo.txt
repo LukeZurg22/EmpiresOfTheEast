@@ -1,15 +1,10 @@
-
-
+owner = MGH
+controller = MGH
+trade_goods = fish
+life_rating = 40	
 add_core = ARA
 add_core = ITA
 add_core = SIC
 add_core = SYC
-trade_goods = fish
-naval_base = 2
-life_rating = 40
-1836.1.2 = {
-  owner = SYC
-  controller = SYC
-  remove_core = SIC
-  remove_core = ARA
-}
+naval_base = 2	
+fort = 0	
