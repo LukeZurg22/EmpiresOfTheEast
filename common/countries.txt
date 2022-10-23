@@ -5,6 +5,9 @@ REB 	= 	"countries/rebels.txt"
 
 #Zurgs Additions
 ZUR = "countries/Zurgatland.txt"
+BUB = "countries/Bubbalande.txt"
+BZG = "countries/Bubbazurgalus.txt"
+AGL = "countries/Angelusland.txt"
 
 #Rileyo Additions/reuse
 

@@ -1,13 +1,9 @@
-
-
+owner = BRZ
+controller = BRZ
+trade_goods = coal
+life_rating = 40	
 add_core = LOT
 add_core = ATL
 add_core = AMA
-trade_goods = coal
-life_rating = 40
-1836.1.2 = {
-	owner = ATL
-	controller = ATL
-	remove_core = AMA
-  remove_core = LOT
-}
+add_core = BRZ
+fort = 0	

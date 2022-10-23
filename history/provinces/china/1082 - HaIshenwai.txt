@@ -1,12 +1,8 @@
-
-
+owner = MCH
+controller = MCH
+trade_goods = coal
+life_rating = 35	
 add_core = MCK
 add_core = MCH
-trade_goods = coal
-naval_base = 1
-life_rating = 35
-1836.1.2 = {
-  owner = MCH
-  controller = MCH
-  remove_core = MCK
-}
+naval_base = 1	
+fort = 0	

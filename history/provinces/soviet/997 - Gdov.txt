@@ -1,6 +1,8 @@
+owner = BZG
+controller = BZG
 trade_goods = grain
 life_rating = 40	
 add_core = RUS
-add_core = NOV
+add_core = BUB
 add_core = PSV
 fort = 0	

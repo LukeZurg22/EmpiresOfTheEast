@@ -1,12 +1,8 @@
-
-
+owner = AMA
+controller = AMA
+trade_goods = fruit
+life_rating = 35	
 add_core = AMA
 add_core = EQN
-trade_goods = fruit
 terrain = savanna
-life_rating = 35
-1836.1.2 = {
-	owner = EQN
-	controller = EQN
-	remove_core = AMA
-}
+fort = 0	

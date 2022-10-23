@@ -1,6 +1,7 @@
-
-
+owner = TAR
+controller = TAR
+trade_goods = sulphur
+life_rating = 35	
 add_core = SIB
 add_core = RUS
-trade_goods = sulphur
-life_rating = 35
+fort = 0	

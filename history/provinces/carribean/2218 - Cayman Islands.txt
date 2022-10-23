@@ -1,12 +1,8 @@
-
-
-add_core = CUB
+owner = CUB
+controller = CUB
 trade_goods = fruit
-life_rating = 30
-colonial = 2
+life_rating = 30	
+colonial = 2	
+add_core = CUB
 terrain = new_world_small_island
-1836.1.2 = {
-  owner = CUB
-  controller = CUB
-  colonial = 0
-}
+fort = 0	

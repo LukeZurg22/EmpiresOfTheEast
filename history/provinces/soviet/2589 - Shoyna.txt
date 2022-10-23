@@ -1,6 +1,7 @@
-
-
-add_core = JAP
+owner = KOR
+controller = KOR
 trade_goods = fish
+life_rating = 30	
+add_core = JAP
 terrain = small_island
-life_rating = 30
+fort = 0	

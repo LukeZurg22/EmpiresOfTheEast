@@ -1,12 +1,8 @@
-
-
-add_core = CLM
-add_core = AZT
-add_core = MEX
+owner = AZT
+controller = AZT
 trade_goods = iron
-life_rating = 35
-1836.1.2 = {
-  owner = AZT
-  controller = AZT
-  remove_core = MEX
-}
+life_rating = 35	
+add_core = CLM
+add_core = AZT
+add_core = MEX
+fort = 0	

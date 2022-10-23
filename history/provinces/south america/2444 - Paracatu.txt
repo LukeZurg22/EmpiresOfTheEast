@@ -1,6 +1,7 @@
-
-
-add_core = AMA
+owner = AMA
+controller = AMA
 trade_goods = cattle
+life_rating = 35	
+add_core = AMA
 terrain = savanna
-life_rating = 35
+fort = 0	

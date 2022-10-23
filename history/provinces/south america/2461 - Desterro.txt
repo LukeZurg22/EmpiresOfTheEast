@@ -1,5 +1,6 @@
-
-
-add_core = LOT
+owner = URU
+controller = URU
 trade_goods = coal
-life_rating = 40
+life_rating = 40	
+add_core = URU
+fort = 0	

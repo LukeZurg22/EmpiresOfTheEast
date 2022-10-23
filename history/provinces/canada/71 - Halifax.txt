@@ -1,7 +1,8 @@
-
-
-add_core = VIN
+owner = ENL
+controller = ENL
 trade_goods = fish
-life_rating = 35
-naval_base = 1
-fort = 1
+life_rating = 35	
+add_core = VIN
+add_core = ENL
+naval_base = 1	
+fort = 1	

@@ -1,6 +1,7 @@
-
-
+owner = MAD
+controller = MAD
+trade_goods = coal
+life_rating = 30	
 add_core = MAD
 terrain = montane_forest
-trade_goods = coal
-life_rating = 30
+fort = 0	

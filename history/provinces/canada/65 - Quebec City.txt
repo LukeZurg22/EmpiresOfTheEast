@@ -1,6 +1,7 @@
-
-
-add_core = VIN
-naval_base = 2
+owner = VIN
+controller = VIN
 trade_goods = grain
-life_rating = 40
+life_rating = 40	
+add_core = VIN
+naval_base = 2	
+fort = 0	

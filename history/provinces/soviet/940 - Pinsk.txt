@@ -1,11 +1,7 @@
-
-
-add_core = PLC
-add_core = POL
-add_core = RUT
+owner = BLR
+controller = BLR
 trade_goods = grain
-life_rating = 35
-1836.1.2 = {
-	owner = POL
-	controller = POL
-}
+life_rating = 35	
+add_core = BLR
+add_core = RUT
+fort = 0	

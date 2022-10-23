@@ -1,6 +1,7 @@
-
-
-add_core = EGY
+owner = EGY
+controller = EGY
 trade_goods = grain
-life_rating = 40
+life_rating = 40	
+add_core = EGY
 terrain = farmlands
+fort = 0	

@@ -1,7 +1,8 @@
-
-
+owner = TAR
+controller = TAR
+trade_goods = iron
+life_rating = 35	
 add_core = RUS
 add_core = NOG
 add_core = TAR
-trade_goods = iron
-life_rating = 35
+fort = 0	

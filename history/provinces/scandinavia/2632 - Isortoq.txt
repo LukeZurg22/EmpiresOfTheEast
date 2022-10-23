@@ -1,13 +1,9 @@
-
-
+owner = GNG
+controller = GNG
+trade_goods = silk
+life_rating = 40	
 add_core = CHI
 add_core = TAI
 add_core = GNG
-trade_goods = silk
-life_rating = 40
 terrain = plains
-1836.1.2 = {
-	owner = GNG
-	controller = GNG
-	remove_core = TAI
-}
+fort = 0	

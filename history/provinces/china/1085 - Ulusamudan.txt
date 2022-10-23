@@ -1,11 +1,7 @@
-
-
+owner = MCH
+controller = MCH
+trade_goods = grain
+life_rating = 30	
 add_core = MCK
 add_core = MCH
-trade_goods = grain
-life_rating = 30
-1836.1.2 = {
-  owner = MCH
-  controller = MCH
-  remove_core = MCK
-}
+fort = 0	

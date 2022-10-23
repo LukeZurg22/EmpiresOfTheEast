@@ -10,10 +10,10 @@ plurality = 10
 nationalvalue = nv_autocracy
 literacy = 0.3
 civilized = yes 
-prestige = 25
+prestige = 0
 schools = army_tech_school
 oob = "ZUR_oob.txt"
-
+ruling_party = ZUR_reactionary_77
 
 #========================= H O U S E - O F - L O R D S =========================
 

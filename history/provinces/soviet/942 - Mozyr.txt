@@ -1,7 +1,7 @@
-
-
-add_core = BLR
-add_core = PLC
-add_core = RUT
+owner = BLR
+controller = BLR
 trade_goods = cattle
-life_rating = 35
+life_rating = 35	
+add_core = BLR
+add_core = RUT
+fort = 0	

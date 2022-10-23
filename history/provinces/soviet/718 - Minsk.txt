@@ -1,11 +1,7 @@
-
-
-add_core = BLR
-add_core = PLC
-add_core = RUT
+owner = BLR
+controller = BLR
 trade_goods = timber
-life_rating = 40
-1836.1.2 = {
-	owner = BLR
-	controller = BLR
-}
+life_rating = 40	
+add_core = BLR
+add_core = RUT
+fort = 0	

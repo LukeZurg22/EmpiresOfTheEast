@@ -1,5 +1,5 @@
 capital = 357
-primary_culture = pomeranian
+primary_culture = finnish
 culture = latvian
 religion = protestant
 government = hms_government

@@ -1,15 +1,19 @@
-#French Substate of Lorraine
+###French Substates
 substate = {
 	first = FRA
 	second = LRR
 	start_date = 1836.1.1
 	end_date = 1836.1.2
 }
-
-#French Substate of Provence
 substate = {
 	first = FRA
 	second = PRV
+	start_date = 1836.1.1
+	end_date = 1836.1.2
+}
+substate = {
+	first = FRA
+	second = OCC
 	start_date = 1836.1.1
 	end_date = 1836.1.2
 }
@@ -37,6 +41,56 @@ vassal = {
 	start_date = 1830.1.1
 	end_date = 1836.1.2
 }
+
+###Bubbalande Vassalships
+vassal = {
+	first = BZG
+	second = ZUR
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = BZG
+	second = NOV
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = BZG
+	second = AGL
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+
+vassal = {
+	first = DAI
+	second = CAM
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+
+
+###Irish Vassalships
+vassal = {
+	first = IRE
+	second = BRT
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = IRE
+	second = WLS
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = IRE
+	second = GAL
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+
+
 
 #vassal = {
 #	first = ASK

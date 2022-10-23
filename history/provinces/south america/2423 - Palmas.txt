@@ -1,16 +1,12 @@
-
-
+owner = AMA
+controller = AMA
+trade_goods = fruit
+life_rating = 35	
 add_core = AMA
 add_core = EQN
-trade_goods = fruit
-life_rating = 35
+fort = 0	
 state_building = {
 	level = 1
 	building = luxury_furniture_factory
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = EQN
-	controller = EQN
-	remove_core = AMA
 }

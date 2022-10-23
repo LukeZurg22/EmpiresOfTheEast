@@ -1,7 +1,8 @@
 owner = KRA
 controller = KRA
 trade_goods = coal
-life_rating = 35
-add_core = PLC
+life_rating = 35	
 add_core = KRA
 add_core = RUT
+add_core = PLC
+fort = 0	

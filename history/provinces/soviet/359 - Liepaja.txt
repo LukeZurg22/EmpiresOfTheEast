@@ -1,6 +1,7 @@
 owner = ZUR
 controller = ZUR
 trade_goods = grain
-life_rating = 35
-add_core = KRL
+life_rating = 35	
 add_core = ZUR
+naval_base = 1	
+fort = 0	

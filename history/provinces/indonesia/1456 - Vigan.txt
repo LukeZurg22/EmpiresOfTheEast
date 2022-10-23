@@ -1,9 +1,7 @@
-
-
-add_core = TON
+owner = KOR
+controller = KOR
 trade_goods = tobacco
-life_rating = 35
-1836.1.2 = {
-  owner = TON
-  controller = TON
-}
+life_rating = 35	
+colonial = 1	
+add_core = TON
+fort = 0	

@@ -1,8 +1,10 @@
-owner = ZUR
-controller = ZUR
+owner = BZG
+controller = BZG
 trade_goods = grain
 life_rating = 35	
 add_core = RUS
 add_core = ZUR
 add_core = PSV
+add_core = BUB
+naval_base = 1	
 fort = 0	

@@ -1,6 +1,7 @@
-
-
-add_core = PLA
+owner = PLA
+controller = PLA
 trade_goods = grain
-life_rating = 45
-naval_base = 2
+life_rating = 45	
+add_core = PLA
+naval_base = 2	
+fort = 0	

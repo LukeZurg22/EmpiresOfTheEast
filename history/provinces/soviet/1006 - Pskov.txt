@@ -1,10 +1,8 @@
-
-
-add_core = RUS
-add_core = NOV
-add_core = PSV
+owner = BZG
+controller = BZG
 trade_goods = cattle
-life_rating = 40
-1836.1.2 = {
-  remove_core = NOV
-}
+life_rating = 40	
+add_core = RUS
+add_core = BUB
+add_core = PSV
+fort = 0	

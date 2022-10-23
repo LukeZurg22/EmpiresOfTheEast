@@ -1,9 +1,10 @@
-owner = KRL
-controller = KRL
+owner = BZG
+controller = BZG
 trade_goods = grain
-life_rating = 40
+life_rating = 40	
 add_core = RUS
 add_core = KRL
 add_core = ZUR
-naval_base = 2
-fort = 1
+add_core = BUB
+naval_base = 2	
+fort = 1	

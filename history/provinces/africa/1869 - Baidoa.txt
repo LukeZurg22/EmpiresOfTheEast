@@ -1,6 +1,7 @@
-
-
-add_core = AJU
+owner = AJU
+controller = AJU
 trade_goods = cotton
+life_rating = 30	
+add_core = AJU
 terrain = savanna
-life_rating = 30
+fort = 0	
