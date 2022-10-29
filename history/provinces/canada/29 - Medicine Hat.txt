@@ -1,12 +1,10 @@
-
-
+owner = KZH
+controller = KZH
+trade_goods = fruit
+life_rating = 15	
 add_core = CHG
 add_core = UZB
-trade_goods = fruit
+add_core = AFS
+add_core = KZH
 terrain = desert
-life_rating = 15
-1836.1.2 = {
-  owner = UZB
-  controller = UZB
-  remove_core = CHG
-}
+fort = 0	

@@ -1,5 +1,7 @@
-
-
-add_core = DNG
+owner = KKN
+controller = KKN
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+add_core = KKN
+add_core = DNG
+fort = 0	

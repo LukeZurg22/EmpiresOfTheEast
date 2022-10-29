@@ -1,7 +1,9 @@
-
-
+owner = TSS
+controller = TSS
+trade_goods = iron
+life_rating = 35	
 add_core = SIB
 add_core = RUS
-trade_goods = iron
+add_core = TSS
 terrain = boreal
-life_rating = 35
+fort = 0	

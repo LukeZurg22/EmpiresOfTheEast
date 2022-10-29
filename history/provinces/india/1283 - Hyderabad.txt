@@ -1,6 +1,7 @@
-
-
+owner = HYD
+controller = HYD
+trade_goods = grain
+life_rating = 35	
 add_core = HYD
 add_core = DRA
-trade_goods = grain
-life_rating = 35
+fort = 0	

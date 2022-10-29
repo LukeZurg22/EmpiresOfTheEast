@@ -1,6 +1,7 @@
-
-
+owner = VIJ
+controller = VIJ
+trade_goods = fruit
+life_rating = 30	
 add_core = DRA
 add_core = VIJ
-trade_goods = fruit
-life_rating = 30
+fort = 0	

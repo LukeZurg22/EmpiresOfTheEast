@@ -1,6 +1,7 @@
-
-
+owner = MDR
+controller = MDR
+trade_goods = dye
+life_rating = 30	
 add_core = MDR
 add_core = DRA
-trade_goods = dye
-life_rating = 30
+fort = 0	

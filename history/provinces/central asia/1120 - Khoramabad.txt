@@ -1,7 +1,8 @@
-
-
+owner = ARY
+controller = ARY
+trade_goods = cotton
+life_rating = 35	
 add_core = IRQ
 add_core = PER
 add_core = ARY
-trade_goods = cotton
-life_rating = 35
+fort = 0	

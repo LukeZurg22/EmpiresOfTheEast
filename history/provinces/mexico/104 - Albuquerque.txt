@@ -1,13 +1,8 @@
-
-
+owner = DIN
+controller = DIN
+trade_goods = fruit
+life_rating = 35	
 add_core = CLM
 add_core = LST
 add_core = DIN
-trade_goods = fruit
-life_rating = 35
-1836.1.2 = {
-  owner = DIN
-  controller = DIN
-  remove_core = LST
-  remove_core = CLM
-}
+fort = 0	

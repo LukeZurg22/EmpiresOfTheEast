@@ -1,7 +1,8 @@
-
-
+owner = SIN
+controller = SIN
+trade_goods = fruit
+life_rating = 40	
 add_core = SIN
 add_core = HND
-trade_goods = fruit
-life_rating = 40
-naval_base = 1
+naval_base = 1	
+fort = 0	

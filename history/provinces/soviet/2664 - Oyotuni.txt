@@ -1,11 +1,9 @@
-
-
+owner = ABU
+controller = ABU
+trade_goods = fish
+life_rating = 35	
 add_core = OMA
 add_core = ABU
 add_core = NEJ
-trade_goods = fish
 terrain = mountain
-life_rating = 35
-1836.1.2 = {
-  remove_core = NEJ
-}
+fort = 0	

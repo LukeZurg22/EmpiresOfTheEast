@@ -1,6 +1,7 @@
-
-
+owner = IRQ
+controller = IRQ
+trade_goods = sulphur
+life_rating = 10	
 add_core = IRQ
 add_core = NEJ
-trade_goods = sulphur
-life_rating = 10
+fort = 0	

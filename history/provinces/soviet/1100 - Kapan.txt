@@ -1,5 +1,5 @@
-owner = ARM
-controller = ARM
+owner = QAJ
+controller = QAJ
 trade_goods = iron
 life_rating = 35	
 add_core = AZB

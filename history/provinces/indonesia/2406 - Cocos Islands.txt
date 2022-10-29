@@ -1,5 +1,6 @@
-
-
-add_core = TNG
+owner = TNG
+controller = TNG
 trade_goods = fish
-life_rating = 30
+life_rating = 30	
+add_core = TNG
+fort = 0	

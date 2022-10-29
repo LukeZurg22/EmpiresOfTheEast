@@ -1,6 +1,7 @@
-
-
+owner = KAS
+controller = KAS
+trade_goods = grain
+life_rating = 35	
 add_core = AFG
 add_core = ARY
-trade_goods = grain
-life_rating = 35
+fort = 0	

@@ -1,3 +1,5 @@
-add_core = YAK
 trade_goods = timber
-life_rating = 10
+life_rating = 10	
+add_core = YAK
+add_core = YKT
+fort = 0	

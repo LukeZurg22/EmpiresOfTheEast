@@ -1,7 +1,8 @@
-
-
+owner = ZND
+controller = ZND
+trade_goods = fruit
+life_rating = 35	
 add_core = ZND
 add_core = PER
 add_core = ARY
-trade_goods = fruit
-life_rating = 35
+fort = 0	

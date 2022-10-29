@@ -1,7 +1,8 @@
-
-
+owner = ORI
+controller = ORI
+trade_goods = grain
+life_rating = 30	
 add_core = HYD
 add_core = DRA
 add_core = ORI
-trade_goods = grain
-life_rating = 30
+fort = 0	

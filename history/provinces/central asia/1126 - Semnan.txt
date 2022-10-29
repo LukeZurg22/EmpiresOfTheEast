@@ -1,7 +1,9 @@
-
-
-add_core = QAJ  
+owner = QAJ
+controller = QAJ
+trade_goods = coal
+life_rating = 35	
+add_core = QAJ
 add_core = ARY
 add_core = PER
-trade_goods = coal
-life_rating = 35
+add_core = AFS
+fort = 0	

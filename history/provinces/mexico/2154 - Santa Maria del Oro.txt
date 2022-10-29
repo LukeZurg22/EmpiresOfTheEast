@@ -1,11 +1,8 @@
-
-
+owner = MEX
+controller = MEX
+trade_goods = grain
+life_rating = 35	
 add_core = CLM
 add_core = MEX
-trade_goods = grain
 terrain = montane_forest
-life_rating = 35
-1836.1.2 = {
-  owner = MEX
-  controller = MEX
-}
+fort = 0	

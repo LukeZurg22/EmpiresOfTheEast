@@ -1,3 +1,6 @@
-add_core = TSS
+owner = YKT
+controller = YKT
 trade_goods = iron
-life_rating = 15
+life_rating = 15	
+add_core = YKT
+fort = 0	

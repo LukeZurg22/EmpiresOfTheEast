@@ -1,5 +1,6 @@
-
-
-add_core = TIB
+owner = TIB
+controller = TIB
 trade_goods = grain
-life_rating = 40
+life_rating = 40	
+add_core = TIB
+fort = 0	

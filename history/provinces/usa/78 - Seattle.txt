@@ -1,6 +1,7 @@
-
-
-add_core = DNG
+owner = DNG
+controller = DNG
 trade_goods = timber
-naval_base = 1
-life_rating = 35
+life_rating = 35	
+add_core = DNG
+naval_base = 1	
+fort = 0	

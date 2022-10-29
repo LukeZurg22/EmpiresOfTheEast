@@ -1,6 +1,7 @@
-
-
+owner = NEJ
+controller = NEJ
+trade_goods = grain
+life_rating = 40	
 add_core = HDJ
 add_core = NEJ
-trade_goods = grain
-life_rating = 40
+fort = 0	

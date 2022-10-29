@@ -1,6 +1,7 @@
-
-
+owner = KZH
+controller = KZH
+trade_goods = opium
+life_rating = 15	
 add_core = AFS
 terrain = desert
-trade_goods = opium
-life_rating = 15
+fort = 0	

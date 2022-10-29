@@ -90,7 +90,81 @@ vassal = {
 	end_date = 1836.1.2
 }
 
+###Empire of Mexika
+vassal = {
+	first = MEX
+	second = LST
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
 
+#Kamchatalay
+vassal = {
+	first = AIN
+	second = KKN
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+
+###Timurrid Empire
+vassal = {
+	first = PER
+	second = AFS
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = PER
+	second = AFG
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = PER
+	second = BLC
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = PER
+	second = ZND
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+
+###Kazakh Transoxiana
+vassal = {
+	first = KZH
+	second = UZB
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = KZH
+	second = KOK
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = KZH
+	second = TJK
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+vassal = {
+	first = KZH
+	second = UGH
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
+
+#Magreb/Arabia Over Sicily
+vassal = {
+	first = MGH
+	second = SYC
+	start_date = 1830.1.1
+	end_date = 1836.1.2
+}
 
 #vassal = {
 #	first = ASK

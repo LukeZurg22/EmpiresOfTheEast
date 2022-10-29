@@ -1,6 +1,7 @@
-
-
-add_core = HHR
+owner = HHR
+controller = HHR
 trade_goods = grain
+life_rating = 35	
+add_core = HHR
 terrain = steppe
-life_rating = 35
+fort = 0	

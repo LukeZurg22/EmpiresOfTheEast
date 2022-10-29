@@ -1,5 +1,6 @@
-
-
-add_core = SIK
+owner = BHU
+controller = BHU
 trade_goods = wool
-life_rating = 30
+life_rating = 30	
+add_core = SIK
+fort = 0	

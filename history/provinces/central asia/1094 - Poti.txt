@@ -1,12 +1,8 @@
-
-
+owner = CIR
+controller = CIR
+trade_goods = fish
+life_rating = 35	
 add_core = AZB
 add_core = GEO
-trade_goods = fish
-life_rating = 35
-naval_base = 1
-1836.1.2 = {
-  owner = GEO
-  controller = GEO
-  remove_core = AZB
-}
+naval_base = 1	
+fort = 0	

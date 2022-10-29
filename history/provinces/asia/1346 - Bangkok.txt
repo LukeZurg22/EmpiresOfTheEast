@@ -1,6 +1,7 @@
-
-
-add_core = SIA
+owner = SIA
+controller = SIA
 trade_goods = grain
-life_rating = 40
-naval_base = 1
+life_rating = 40	
+add_core = SIA
+naval_base = 1	
+fort = 0	

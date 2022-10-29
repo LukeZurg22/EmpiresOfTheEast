@@ -1,6 +1,7 @@
-
-
-add_core = KKN
+owner = KKN
+controller = KKN
 trade_goods = timber
-life_rating = 20
+life_rating = 20	
+add_core = KKN
 terrain = new_world_montane_tundra
+fort = 0	

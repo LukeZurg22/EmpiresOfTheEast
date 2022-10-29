@@ -1,11 +1,7 @@
-
-
-add_core = BUR
-colonial = 2
+owner = BUR
+controller = BUR
 trade_goods = fish
-life_rating = 35
-1836.1.2 = {
-  
-  
-  colonial = 0
-}
+life_rating = 35	
+colonial = 2	
+add_core = BUR
+fort = 0	

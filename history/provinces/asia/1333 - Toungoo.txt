@@ -1,5 +1,6 @@
-
-
-add_core = BUR
+owner = BUR
+controller = BUR
 trade_goods = opium
-life_rating = 40
+life_rating = 40	
+add_core = BUR
+fort = 0	

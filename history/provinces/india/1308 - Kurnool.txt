@@ -1,12 +1,8 @@
-
-
+owner = HYD
+controller = HYD
+trade_goods = cattle
+life_rating = 30	
 add_core = VIJ
 add_core = HYD
 add_core = DRA
-trade_goods = cattle
-life_rating = 30
-1836.1.2 = {
-  owner = HYD
-  controller = HYD
-  remove_core = VIJ
-}
+fort = 0	

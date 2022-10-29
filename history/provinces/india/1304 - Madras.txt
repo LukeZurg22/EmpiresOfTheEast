@@ -1,8 +1,8 @@
-
-
+owner = MDR
+controller = MDR
+trade_goods = cotton
+life_rating = 30	
 add_core = MDR
 add_core = DRA
-trade_goods = cotton
-life_rating = 30
-fort = 1
-naval_base = 1
+naval_base = 1	
+fort = 1	

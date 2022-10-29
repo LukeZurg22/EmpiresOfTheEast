@@ -1,6 +1,7 @@
-
-
+owner = SIN
+controller = SIN
+trade_goods = cattle
+life_rating = 30	
 add_core = SIN
 add_core = HND
-trade_goods = cattle
-life_rating = 30
+fort = 0	

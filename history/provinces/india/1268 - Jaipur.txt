@@ -1,6 +1,7 @@
-
-
+owner = MUG
+controller = MUG
+trade_goods = timber
+life_rating = 30	
 add_core = JAI
 add_core = HND
-trade_goods = timber
-life_rating = 30
+fort = 0	

@@ -1,6 +1,8 @@
-
-
+owner = CHG
+controller = CHG
+trade_goods = sulphur
+life_rating = 40	
 add_core = SIB
 add_core = RUS
-trade_goods = sulphur
-life_rating = 40
+add_core = CHG
+fort = 0	

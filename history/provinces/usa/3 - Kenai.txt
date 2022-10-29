@@ -1,6 +1,7 @@
-
-
-add_core = KKN
+owner = KKN
+controller = KKN
 trade_goods = fish
+life_rating = 25	
+add_core = KKN
 terrain = new_world_boreal
-life_rating = 25
+fort = 0	

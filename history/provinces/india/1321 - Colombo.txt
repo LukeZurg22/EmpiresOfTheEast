@@ -1,12 +1,8 @@
-
-
-add_core = SRL
+owner = SRL
+controller = SRL
 trade_goods = fruit
-life_rating = 35
-colonial = 2
-naval_base = 1
-1836.1.2 = {
-  owner = SRL
-  controller = SRL
-  colonial = 0
-}
+life_rating = 35	
+colonial = 2	
+add_core = SRL
+naval_base = 1	
+fort = 0	

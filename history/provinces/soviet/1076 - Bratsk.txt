@@ -1,3 +1,6 @@
-add_core = TSS
+owner = CHG
+controller = CHG
 trade_goods = coal
-life_rating = 20
+life_rating = 20	
+add_core = CHG
+fort = 0	

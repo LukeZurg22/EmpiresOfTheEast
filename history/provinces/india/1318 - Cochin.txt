@@ -1,6 +1,7 @@
-
-
+owner = TRA
+controller = TRA
+trade_goods = grain
+life_rating = 30	
 add_core = DRA
 add_core = TRA
-trade_goods = grain
-life_rating = 30
+fort = 0	

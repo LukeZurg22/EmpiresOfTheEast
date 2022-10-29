@@ -1,6 +1,7 @@
-
-
+owner = JOH
+controller = JOH
+trade_goods = iron
+life_rating = 40	
 add_core = JOH
 add_core = NUS
-trade_goods = iron
-life_rating = 40
+fort = 0	

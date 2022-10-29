@@ -1,11 +1,7 @@
-
-
+owner = SIA
+controller = SIA
+trade_goods = opium
+life_rating = 35	
 add_core = SIA
 add_core = CAM
-trade_goods = opium
-life_rating = 35
-1836.1.2 = {
-  
-  
-  remove_core = CAM
-}
+fort = 0	

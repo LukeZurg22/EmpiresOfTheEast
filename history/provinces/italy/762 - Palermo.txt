@@ -1,5 +1,5 @@
-owner = MGH
-controller = MGH
+owner = SYC
+controller = SYC
 trade_goods = fish
 life_rating = 40	
 add_core = ARA

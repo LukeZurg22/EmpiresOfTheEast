@@ -1,7 +1,10 @@
-
-
-add_core = ZND
-add_core = PER           
-add_core = ARY
+owner = PER
+controller = PER
 trade_goods = cotton
-life_rating = 35
+life_rating = 35	
+add_core = ZND
+add_core = PER
+add_core = ARY
+add_core = AFG
+add_core = BLC
+fort = 0	

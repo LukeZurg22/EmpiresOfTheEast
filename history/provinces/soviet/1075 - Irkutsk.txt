@@ -1,5 +1,5 @@
-owner = TNT
-controller = TNT
+owner = CHG
+controller = CHG
 trade_goods = coal
 life_rating = 35	
 add_core = CHG

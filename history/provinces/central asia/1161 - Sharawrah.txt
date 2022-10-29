@@ -1,5 +1,6 @@
-
-
-add_core = NEJ
+owner = IRQ
+controller = IRQ
 trade_goods = wool
-life_rating = 10
+life_rating = 10	
+add_core = NEJ
+fort = 0	

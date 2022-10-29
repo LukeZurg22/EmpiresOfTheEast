@@ -1,7 +1,8 @@
-
-
+owner = NEJ
+controller = NEJ
+trade_goods = coffee
+life_rating = 40	
 add_core = YEM
 add_core = NEJ
-trade_goods = coffee
 terrain = steppe
-life_rating = 40
+fort = 0	

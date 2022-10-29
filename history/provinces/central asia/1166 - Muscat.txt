@@ -1,7 +1,9 @@
-
-
+owner = ABU
+controller = ABU
+trade_goods = opium
+life_rating = 40	
 add_core = OMA
 add_core = NEJ
-trade_goods = opium
-life_rating = 40
-naval_base = 1
+add_core = ABU
+naval_base = 1	
+fort = 0	

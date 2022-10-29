@@ -1,6 +1,7 @@
-
-
-add_core = AFG        
-add_core = ARY
+owner = TJK
+controller = TJK
 trade_goods = wool
-life_rating = 35
+life_rating = 35	
+add_core = AFG
+add_core = ARY
+fort = 0	

@@ -1,7 +1,8 @@
-
-
-add_core = ZND
-add_core = PER              
-add_core = ARY
+owner = ZND
+controller = ZND
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+add_core = ZND
+add_core = PER
+add_core = ARY
+fort = 0	

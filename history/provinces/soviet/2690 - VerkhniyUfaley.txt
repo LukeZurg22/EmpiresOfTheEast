@@ -1,5 +1,9 @@
+owner = TSS
+controller = TSS
+trade_goods = grain
+life_rating = 15	
 add_core = URA
 add_core = RUS
-trade_goods = grain
+add_core = TSS
 terrain = boreal
-life_rating = 15
+fort = 0	

@@ -1,6 +1,7 @@
-
-
+owner = KZH
+controller = KZH
+trade_goods = fish
+life_rating = 35	
 add_core = AFS
 terrain = desert
-trade_goods = fish
-life_rating = 35
+fort = 0	

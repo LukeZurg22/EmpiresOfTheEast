@@ -1,12 +1,8 @@
-
-
-add_core = BUR
+owner = BUR
+controller = BUR
 trade_goods = grain
-life_rating = 40
-naval_base = 1
-colonial = 2
-1836.1.2 = {
-  
-  
-  colonial = 0
-}
+life_rating = 40	
+colonial = 2	
+add_core = BUR
+naval_base = 1	
+fort = 0	

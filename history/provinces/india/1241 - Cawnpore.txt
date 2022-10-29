@@ -1,12 +1,8 @@
-
-
+owner = BUN
+controller = BUN
+trade_goods = dye
+life_rating = 30	
 add_core = MUG
 add_core = BUN
 add_core = HND
-trade_goods = dye
-life_rating = 30
-1836.1.2 = {
-  owner = BUN
-  controller = BUN
-  remove_core = MUG
-}
+fort = 0	

@@ -1,7 +1,8 @@
-
-
-add_core = QAJ                                                               
+owner = ARY
+controller = ARY
+trade_goods = iron
+life_rating = 35	
+add_core = QAJ
 add_core = ARY
 add_core = PER
-trade_goods = iron
-life_rating = 35
+fort = 0	

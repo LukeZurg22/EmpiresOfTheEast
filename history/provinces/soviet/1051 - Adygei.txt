@@ -1,11 +1,9 @@
-
-
+owner = CIR
+controller = CIR
+trade_goods = grain
+life_rating = 35	
 add_core = ASK
 add_core = CIR
 add_core = TAR
 add_core = RUS
-trade_goods = grain
-life_rating = 35
-1836.1.2 = {
-  remove_core = ASK
-}
+fort = 0	

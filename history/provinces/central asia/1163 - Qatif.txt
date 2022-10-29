@@ -1,7 +1,9 @@
-
-
+owner = IRQ
+controller = IRQ
+trade_goods = fish
+life_rating = 35	
 add_core = NEJ
 add_core = ALH
-trade_goods = fish
-life_rating = 35
+add_core = IRQ
 terrain = semidesert
+fort = 0	

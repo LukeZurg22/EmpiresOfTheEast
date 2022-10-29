@@ -5,7 +5,6 @@ Decision to rename all of Zurgatland to Zurg-based names
 Jabdertim - Jewish Horde
 Voidentenland -> Voiditol
 Make Andalusia Tag
-Make Navarre Not Puppet
 Remove Portugese and Basque from Castillian, which should have a new Asturian Culture and become Asturias
 Add Brittainy new soldiers
 England has no starting ideology (and they accept welsh, instead should accept burgundian) and they need doods
@@ -16,18 +15,16 @@ Navarra needs more cores
 Move all Anglo-Norse to the Danelaw
 Remove french accepteds
 Breton culture spread; french renamed to Gaulic, Anglois is the new french which is gone from england
-Prussia is a sub state
-Scandy annexes karelia
 Depopulate Bohemia, populate the baltics, depopulate Russia, populate scotland, move pops from paris to brittany
-Stop venice from vassalizing greece
 SPREAD ALBANIAN
-Remove cores from germany
 Add North German Confederation (Germanika-Norden)
 Add special North German-Bohemian union (cores only)
 Gold to Riga, and Danzig, Tropical Wood to Koln (everyone's got cores [event])
 Brittany can form Gaul
 Add memel micro state
 Add the Knights of Rhodes
+Stop the Empire of Mexico
+Add Vepsian Culture
 
 Fix cores of:
 Scotland - Lowlands
@@ -36,20 +33,12 @@ Switzerland - Savoie, Lombardia, Lugano
 Venice - East Krete
 
 Rename:
-Albania -> Albanon
 France -> Frankia
-Scotland -> Gaelic Isles
-Ireland -> Eire
-Wales -> Cymru
 (ADD) Cornwall -> Cyrnwael
 Denmark -> Danmark
-Etruria -> Etrusca
 (ADD) Rome -> Roma
-Wallachia -> Romana
 Krakow -> Krakowiscka
-Novgorod -> Veps (Add Vepsian Culture)
 Koea -> Joseon
-Byzantium -> East Roma (Renamed to Byzantium when/if Roma is destroyed. Up to player. [Event for cores on italy, or elsewhere])
 Add both Anatolian Orders
 Etrusca's core to rome : Equalize the pope and etrusca (whoever gets it first, wins)
 Granada exists as a tag
@@ -70,6 +59,4 @@ Frankia
 Occitania
 Scotland
 Estland
-Etruria
 Wallachia
-Novgorod

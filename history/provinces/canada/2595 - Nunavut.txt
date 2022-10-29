@@ -5,4 +5,5 @@ life_rating = 10
 colonial = 2	
 add_core = VIN
 add_core = NUN
+add_core = HHR
 fort = 0	

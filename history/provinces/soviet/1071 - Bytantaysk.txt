@@ -1,7 +1,8 @@
-
-
+owner = ABU
+controller = ABU
+trade_goods = fish
+life_rating = 40	
 add_core = PER
 add_core = ARY
 add_core = ZND
-trade_goods = fish
-life_rating = 40
+fort = 0	

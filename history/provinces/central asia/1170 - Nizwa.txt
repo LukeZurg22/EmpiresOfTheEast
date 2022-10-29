@@ -1,7 +1,9 @@
-
-
+owner = ABU
+controller = ABU
+trade_goods = opium
+life_rating = 35	
 add_core = OMA
 add_core = NEJ
-trade_goods = opium
-life_rating = 35
+add_core = ABU
 terrain = semidesert
+fort = 0	

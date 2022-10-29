@@ -1,4 +1,6 @@
-add_core = YAK
 trade_goods = grain
+life_rating = 10	
+add_core = YAK
+add_core = YKT
 terrain = boreal
-life_rating = 10
+fort = 0	
