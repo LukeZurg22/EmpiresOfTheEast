@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = KAS
+controller = KAS
 trade_goods = wool
 life_rating = 35	
 add_core = AFG
