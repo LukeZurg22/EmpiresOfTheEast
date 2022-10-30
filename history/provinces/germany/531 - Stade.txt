@@ -1,5 +1,5 @@
-owner = HOL
-controller = HOL
+owner = FRI
+controller = FRI
 trade_goods = cattle
 life_rating = 38	
 add_core = HAN

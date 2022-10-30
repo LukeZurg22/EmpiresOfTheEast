@@ -1,8 +1,8 @@
-name = "Ethiopian Civil War"
+name = "Holy Slovak Revolutionary War"
 
 1835.10.2 = {
-	add_attacker = ETH
-	add_defender = ADA
+	add_attacker = SRV
+	add_defender = SLV
 
 	# actor
 	# receiver
@@ -12,18 +12,18 @@ name = "Ethiopian Civil War"
 
 	war_goal = {
 		casus_belli = civil_war
-		actor = ETH
-		receiver = ADA
+		actor = SLV
+		receiver = SRV
 	}
 	war_goal = {
-		casus_belli = status_quo
-		actor = ADA
-		receiver = ETH
+		casus_belli = civil_war
+		actor = SRV
+		receiver = SLV
 	}
 
 }
 
 1836.1.2 = {
-	rem_attacker = ETH
-	rem_defender = ADA
+	rem_attacker = SRV
+	rem_defender = SLV
 }

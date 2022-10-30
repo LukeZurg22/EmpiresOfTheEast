@@ -4,5 +4,6 @@ trade_goods = grain
 life_rating = 40	
 add_core = CHG
 add_core = UZB
+add_core = KZH
 terrain = dryhills
 fort = 0	

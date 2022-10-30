@@ -1,4 +1,7 @@
+owner = EQN
+controller = EQN
+trade_goods = tropical_wood
+life_rating = 15	
 add_core = EQN
 add_core = TAP
-trade_goods = tropical_wood
-life_rating = 15
+fort = 0	

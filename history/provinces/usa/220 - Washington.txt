@@ -1,6 +1,6 @@
-
-
-add_core = NBG
+owner = ENL
+controller = ENL
 trade_goods = grain
-life_rating = 40
-fort = 1
+life_rating = 40	
+add_core = NBG
+fort = 1	

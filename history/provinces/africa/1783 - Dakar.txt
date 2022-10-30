@@ -1,12 +1,8 @@
-
-
-add_core = FJA
+owner = TUS
+controller = TUS
 trade_goods = grain
+life_rating = 35	
+colonial = 2	
+add_core = FJA
 terrain = semidesert
-life_rating = 35
-colonial = 2
-1836.1.2 = {
-  owner = FJA
-  controller = FJA
-  colonial = 0
-}
+fort = 0	

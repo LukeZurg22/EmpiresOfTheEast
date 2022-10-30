@@ -1,7 +1,8 @@
-
-
-add_core = NBG
+owner = FLO
+controller = FLO
 trade_goods = grain
-life_rating = 40
-railroad = 1
-naval_base = 2
+life_rating = 40	
+add_core = NBG
+naval_base = 2	
+fort = 0	
+railroad = 1	

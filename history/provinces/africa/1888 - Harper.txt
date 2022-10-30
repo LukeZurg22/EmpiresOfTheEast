@@ -1,9 +1,7 @@
-
-
+owner = WTT
+controller = WTT
 trade_goods = coffee
-life_rating = 30
-colonial = 2
-1836.1.2 = {
-  owner = IRE
-  controller = IRE
-}
+life_rating = 30	
+colonial = 2	
+add_core = WTT
+fort = 0	

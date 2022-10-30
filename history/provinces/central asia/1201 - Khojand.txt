@@ -5,4 +5,6 @@ life_rating = 35
 add_core = CHG
 add_core = ARY
 add_core = TJK
+add_core = KZH
+add_core = UZB
 fort = 0	

@@ -1,5 +1,8 @@
+owner = FLO
+controller = FLO
 trade_goods = fruit
 life_rating = 35	
 colonial = 2	
 add_core = ATS
+add_core = FLO
 fort = 0	

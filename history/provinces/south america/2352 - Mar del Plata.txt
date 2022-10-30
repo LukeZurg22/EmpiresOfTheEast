@@ -1,6 +1,5 @@
-
-
-add_core = NAN
 trade_goods = cattle
+life_rating = 35	
+add_core = NAN
 terrain = farmlands
-life_rating = 35
+fort = 0	

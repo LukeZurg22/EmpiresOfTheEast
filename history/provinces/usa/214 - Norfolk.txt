@@ -1,10 +1,8 @@
-
-
+owner = ENL
+controller = ENL
+trade_goods = tobacco
+life_rating = 35	
 add_core = NBG
 add_core = PLA
-trade_goods = tobacco
-life_rating = 35
-naval_base = 1
-1836.1.2 = {
-  remove_core = PLA
-}
+naval_base = 1	
+fort = 0	

@@ -1,16 +1,19 @@
 fix up Zurgatland's OOB to have a nicely named army
 encourage anarchy national focus'
-fix the fact that Zurgatland's initial government is nonexistent
+Fix England's government
+Make guyana a puppet of granada
+Add Brazil's cores on itself and amazonne* (rename from Amazonie)
 Decision to rename all of Zurgatland to Zurg-based names
 Jabdertim - Jewish Horde
 Voidentenland -> Voiditol
 Make Andalusia Tag
 Remove Portugese and Basque from Castillian, which should have a new Asturian Culture and become Asturias
+Add new country of Asturias, which can form Andalusia or Spain
 Add Brittainy new soldiers
 England has no starting ideology (and they accept welsh, instead should accept burgundian) and they need doods
 Remove anglois from England, keep it in france near england & France proper
 French culture split; france should have a smaller weirder one. They also get vassals
-Occitania needs an ideology
+Occitania needs an ideology/government
 Navarra needs more cores
 Move all Anglo-Norse to the Danelaw
 Remove french accepteds
@@ -27,7 +30,15 @@ Stop the Empire of Mexico being Mexico, and change its flag
 Creek flag
 Califanam flag -> japanese
 Add Vepsian Culture
+Split Zurgatland's and others' troops betwen provinces so armies can fill
 Thunder Dragon Empire flags
+Rename Wattara to Kankan and fix the "noculture" accepted to Kru. KRU IS PRIMARY, MALIAN IS ACCEPTED
+Have venice core all of krete
+Remove Japanese from Kita-Kaigan's accepteds
+Pope allies Greece at the start
+Add OOB's for Transoxiania and all of its puppets
+OOB's for Tatarstan
+
 
 Fix cores of:
 Scotland - Lowlands

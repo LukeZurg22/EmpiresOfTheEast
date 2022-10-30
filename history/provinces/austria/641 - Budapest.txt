@@ -1,7 +1,9 @@
-owner = SLV
-controller = SLV
+owner = SRV
+controller = SRV
 trade_goods = cattle
 life_rating = 40	
+add_core = SRV
+add_core = SLV
 fort = 1	
 state_building = {
 	level = 1

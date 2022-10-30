@@ -1,7 +1,8 @@
-owner = SLV
-controller = SLV
+owner = SRV
+controller = SRV
 trade_goods = coal
 life_rating = 35	
 add_core = SLV
 add_core = RUT
+add_core = SRV
 fort = 0	

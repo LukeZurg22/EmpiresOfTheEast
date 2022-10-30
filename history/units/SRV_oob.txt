@@ -1,0 +1,66 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Main Army"
+location = 641
+regiment = {
+name = "Regiment 0"
+type = artillery
+home = 641
+}
+regiment = {
+name = "Regiment 1"
+type = artillery
+home = 641
+}
+regiment = {
+name = "Regiment 2"
+type = artillery
+home = 641
+}
+regiment = {
+name = "Regiment 3"
+type = artillery
+home = 641
+}
+regiment = {
+name = "Regiment 4"
+type = artillery
+home = 641
+}
+regiment = {
+name = "Regiment 5"
+type = hussar
+home = 641
+}
+regiment = {
+name = "Regiment 6"
+type = infantry
+home = 641
+}
+regiment = {
+name = "Regiment 7"
+type = infantry
+home = 641
+}
+regiment = {
+name = "Regiment 8"
+type = infantry
+home = 641
+}
+regiment = {
+name = "Regiment 9"
+type = infantry
+home = 641
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+

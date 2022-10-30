@@ -1,6 +1,7 @@
-
-
-add_core = INC
+owner = INC
+controller = INC
 trade_goods = wool
+life_rating = 20	
+add_core = INC
 terrain = new_world_desert
-life_rating = 20
+fort = 0	

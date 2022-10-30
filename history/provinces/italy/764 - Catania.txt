@@ -1,5 +1,5 @@
-owner = SYC
-controller = SYC
+owner = MGH
+controller = MGH
 trade_goods = sulphur
 life_rating = 40	
 add_core = ARA

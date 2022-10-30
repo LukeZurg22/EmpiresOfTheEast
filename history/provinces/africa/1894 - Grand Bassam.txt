@@ -1,11 +1,7 @@
-
-
-add_core = ASH
+owner = FLO
+controller = FLO
 trade_goods = cattle
-life_rating = 40
-colonial = 2
-1836.1.2 = {
-  owner = ASH
-  controller = ASH
-  colonial = 0
-}
+life_rating = 40	
+colonial = 2	
+add_core = ASH
+fort = 0	

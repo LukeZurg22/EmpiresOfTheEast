@@ -1,13 +1,9 @@
-
-
-add_core = ATS
+owner = FLO
+controller = FLO
 trade_goods = cotton
-life_rating = 40
-colonial = 2
-naval_base = 1
-is_slave = yes
-1836.1.2 = {
-  owner = ATS
-  controller = ATS
-  colonial = 0
-}
+life_rating = 40	
+colonial = 2	
+add_core = ATS
+add_core = FLO
+naval_base = 1	
+fort = 0	

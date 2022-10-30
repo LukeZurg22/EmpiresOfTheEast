@@ -1,12 +1,8 @@
-
-
-add_core = GUY
+owner = GUY
+controller = GUY
 trade_goods = fruit
+life_rating = 35	
+colonial = 2	
+add_core = GUY
 terrain = plains
-life_rating = 35
-colonial = 2
-1836.1.2 = {
-	owner = GUY
-	controller = GUY
-  colonial = 0
-}
+fort = 0	

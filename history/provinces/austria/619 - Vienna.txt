@@ -6,6 +6,7 @@ add_core = AUS
 add_core = SGF
 add_core = GER
 add_core = SLV
+add_core = SRV
 fort = 1	
 state_building = {
 	level = 1

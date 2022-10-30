@@ -1,14 +1,10 @@
-
-
-add_core = LOT
-add_core = AVA
+owner = AVA
+controller = AVA
 trade_goods = fruit
+life_rating = 35	
+colonial = 2	
+add_core = LOT
+add_core = AVA
+add_core = URU
 terrain = savanna
-life_rating = 35
-colonial = 2
-1836.1.2 = {
-	owner = AVA
-	controller = AVA
-	remove_core = LOT
-  colonial = 0
-}
+fort = 0	

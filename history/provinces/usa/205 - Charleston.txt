@@ -1,6 +1,7 @@
-
-
-add_core = PLA
+owner = FLO
+controller = FLO
 trade_goods = coal
-life_rating = 40
-naval_base = 1
+life_rating = 40	
+add_core = PLA
+naval_base = 1	
+fort = 0	

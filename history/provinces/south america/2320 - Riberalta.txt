@@ -1,4 +1,7 @@
-add_core = EQN 
-add_core = TAP
+owner = AVA
+controller = AVA
 trade_goods = timber
-life_rating = 25
+life_rating = 25	
+add_core = EQN
+add_core = TAP
+fort = 0	

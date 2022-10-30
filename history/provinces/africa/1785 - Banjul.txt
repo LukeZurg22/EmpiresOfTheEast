@@ -1,12 +1,8 @@
-
-
-add_core = FJA
+owner = FLO
+controller = FLO
 trade_goods = fruit
-life_rating = 35
-colonial = 2
-naval_base = 1
-1836.1.2 = {
-  owner = FJA
-  controller = FJA
-  colonial = 0
-}
+life_rating = 35	
+colonial = 2	
+add_core = FJA
+naval_base = 1	
+fort = 0	

@@ -3,4 +3,5 @@ controller = SLV
 trade_goods = coal
 life_rating = 35	
 add_core = SLV
+add_core = SRV
 fort = 0	

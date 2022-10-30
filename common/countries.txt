@@ -8,9 +8,10 @@ ZUR = "countries/Zurgatland.txt"
 BUB = "countries/Bubbalande.txt"
 BZG = "countries/Bubbazurgalus.txt"
 AGL = "countries/Angelusland.txt"
+SRV = "countries/SlovakRev.txt"
+FLO = "countries/Floridam.txt"
 
 #Rileyo Additions/reuse
-
 ARP   = "countries/Arpitania.txt"
 BLT   = "countries/Baltic Empire.txt"
 BYZ		= "countries/Byzantium.txt"

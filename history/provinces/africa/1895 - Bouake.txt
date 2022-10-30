@@ -1,2 +1,5 @@
+owner = WTT
+controller = WTT
 trade_goods = grain
-life_rating = 10
+life_rating = 10	
+fort = 0	

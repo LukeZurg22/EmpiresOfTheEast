@@ -3,4 +3,5 @@ controller = TNT
 trade_goods = timber
 life_rating = 35	
 add_core = CHG
+add_core = MGL
 fort = 0	

@@ -1,16 +1,4 @@
-alliance=
-	{
-		first="DNG"
-		second="INC"
-		start_date="1773.1.1"
-	}
-	
-alliance=
-	{
-		first="MCK"
-		second="MGL"
-		start_date="1773.1.1"
-	}
+
 alliance=
 	{
 		first="JAI"
@@ -43,62 +31,6 @@ alliance=
 		start_date="1773.1.1"
 	}
 	
-alliance = {
-	first="DUA"
-	second="SPA"
-	start_date="1773.1.1"
-}
-	
-alliance=
-	{
-		first="SPA"
-		second="VIJ"
-		start_date="1773.1.1"
-	}
-	
-alliance=
-	{
-		first="HUN"
-		second="PLC"
-		start_date="1773.1.1"
-	}
-
-alliance=
-	{
-		first="PLC"
-		second="MOL"
-		start_date="1773.1.1"
-	}
-	
-	alliance=
-	{
-		first="SCA"
-		second="BRG"
-		start_date="1773.1.1"
-	}
-	
-		alliance=
-	{
-		first="LOT"
-		second="NAN"
-		start_date="1773.1.1"
-	}
-	
-	alliance=
-	{
-		first="TUR"
-		second="CRI"
-		start_date="1773.1.1"
-	}
-	
-	alliance=
-	{
-		first="TUR"
-		second="ASK"
-		start_date="1773.1.1"
-	}
-	
-
 	alliance=
 	{
 		first="OMA"
@@ -112,31 +44,7 @@ alliance=
 		start_date="1773.1.1"
 	}
 	
-			alliance=
-	{
-		first="TRN"
-		second="LWE"
-		start_date="1773.1.1"
-	}
-			alliance=
-	{
-		first="TRN"
-		second="NFL"
-		start_date="1773.1.1"
-	}
-			alliance=
-	{
-		first="LWE"
-		second="NFL"
-		start_date="1773.1.1"
-	}
 	
-	alliance = 	{
-		first="TUR"
-		second="HDJ"
-		start_date="1773.1.1"
-	}
-
 	alliance = 	{
 		first="HUN"
 		second="WAL"
@@ -144,7 +52,22 @@ alliance=
 	}    
 
 	alliance = 	{
-		first="MCK"
-		second="KOR"
+		first="KOR"
+		second="MCH"
+		start_date="1833.1.1"
+	}
+	alliance = 	{
+		first="BHU"
+		second="TIB"
+		start_date="1833.1.1"
+	}
+	alliance = 	{
+		first="DEN"
+		second="NOR"
+		start_date="1833.1.1"
+	}
+	alliance = 	{
+		first="FLO"
+		second="IRO"
 		start_date="1833.1.1"
 	}

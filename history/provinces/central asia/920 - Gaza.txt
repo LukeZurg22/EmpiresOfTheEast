@@ -1,5 +1,5 @@
-owner = PLS
-controller = PLS
+owner = CRO
+controller = CRO
 trade_goods = grain
 life_rating = 35	
 add_core = PLS

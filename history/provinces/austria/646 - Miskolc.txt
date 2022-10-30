@@ -1,5 +1,7 @@
-owner = SLV
-controller = SLV
+owner = SRV
+controller = SRV
 trade_goods = fruit
 life_rating = 35	
+add_core = SRV
+add_core = SLV
 fort = 0	

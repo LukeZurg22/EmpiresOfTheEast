@@ -3,5 +3,7 @@ controller = KZH
 trade_goods = grain
 life_rating = 35	
 add_core = AFS
+add_core = KZH
+add_core = UZB
 terrain = semidesert
 fort = 0	

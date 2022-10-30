@@ -1,17 +1,9 @@
-
-
+owner = GRA
+controller = GRA
+trade_goods = tropical_wood
+life_rating = 20	
+colonial = 2	
 add_core = CLM
 add_core = GRA
 add_core = TAP
-trade_goods = tropical_wood
-life_rating = 20
-colonial = 2
-1835.1.1 = {
-	controller = SPA
-}
-1836.1.2 = {
-	owner = TAP
-	controller = TAP
-	remove_core = CLM
-  remove_core = GRA
-}
+fort = 0	

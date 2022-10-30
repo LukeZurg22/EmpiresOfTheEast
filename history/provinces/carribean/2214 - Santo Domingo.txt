@@ -1,11 +1,7 @@
-
-
-add_core = SFJ
-colonial = 2
+owner = SFJ
+controller = SFJ
 trade_goods = tobacco
-life_rating = 35
-1836.1.2 = {
-  owner = SFJ
-  controller = SFJ
-  colonial = 0
-}
+life_rating = 35	
+colonial = 2	
+add_core = SFJ
+fort = 0	

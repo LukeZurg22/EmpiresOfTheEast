@@ -1,7 +1,8 @@
-owner = SLV
-controller = SLV
+owner = SRV
+controller = SRV
 trade_goods = grain
 life_rating = 35	
 add_core = SIE
 add_core = ROM
+add_core = SRV
 fort = 0	

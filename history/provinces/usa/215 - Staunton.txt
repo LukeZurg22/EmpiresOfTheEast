@@ -1,9 +1,7 @@
-
-
+owner = ENL
+controller = ENL
+trade_goods = grain
+life_rating = 35	
 add_core = NBG
 add_core = PLA
-trade_goods = grain
-life_rating = 35
-1836.1.2 = {
-  remove_core = PLA
-}
+fort = 0	
